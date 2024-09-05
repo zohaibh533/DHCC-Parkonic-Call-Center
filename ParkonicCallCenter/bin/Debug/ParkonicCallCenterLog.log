@@ -1,0 +1,1711 @@
+2024-05-14 15:51:32,123 [10] INFO  frmLogin_Load
+2024-05-14 15:51:33,121 [10] INFO  btnLogin_Click
+2024-05-14 15:51:34,333 [10] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-05-14 15:51:35,822 [10] INFO  IP : 192.168.1.4
+2024-05-14 15:51:36,830 [10] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:52:08,919 [25] INFO  SIP Account registration info : Error
+2024-05-14 15:52:08,957 [25] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:52:40,976 [8] INFO  SIP Account registration info : Error
+2024-05-14 15:52:41,012 [8] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:53:13,027 [8] INFO  SIP Account registration info : Error
+2024-05-14 15:53:13,065 [8] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:53:45,069 [25] INFO  SIP Account registration info : Error
+2024-05-14 15:53:45,109 [25] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:54:17,113 [25] INFO  SIP Account registration info : Error
+2024-05-14 15:54:17,152 [25] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:54:49,168 [11] INFO  SIP Account registration info : Error
+2024-05-14 15:54:49,206 [11] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:55:21,208 [17] INFO  SIP Account registration info : Error
+2024-05-14 15:55:21,245 [17] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:55:53,263 [12] INFO  SIP Account registration info : Error
+2024-05-14 15:55:53,300 [12] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:56:25,318 [8] INFO  SIP Account registration info : Error
+2024-05-14 15:56:25,357 [8] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:56:57,378 [12] INFO  SIP Account registration info : Error
+2024-05-14 15:56:57,413 [12] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:57:09,129 [20] INFO  SIP Account registration info : Error
+2024-05-14 15:57:09,168 [20] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:57:09,194 [20] INFO  SIP Account registration info : Error
+2024-05-14 15:57:09,231 [20] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:57:09,328 [20] INFO  SIP Account registration info : Error
+2024-05-14 15:57:09,366 [20] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:57:09,387 [20] INFO  SIP Account registration info : Error
+2024-05-14 15:57:09,422 [20] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:57:09,450 [20] INFO  SIP Account registration info : Error
+2024-05-14 15:57:09,487 [20] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:57:09,511 [20] INFO  SIP Account registration info : Error
+2024-05-14 15:57:09,546 [20] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:57:09,566 [20] INFO  SIP Account registration info : Error
+2024-05-14 15:57:09,605 [20] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:57:09,636 [20] INFO  SIP Account registration info : Error
+2024-05-14 15:57:09,672 [20] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:57:09,772 [20] INFO  SIP Account registration info : Error
+2024-05-14 15:57:09,811 [20] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:57:09,892 [20] INFO  SIP Account registration info : Error
+2024-05-14 15:57:09,929 [20] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:57:09,942 [20] INFO  SIP Account registration info : Error
+2024-05-14 15:57:09,978 [20] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:57:10,065 [27] INFO  SIP Account registration info : Error
+2024-05-14 15:57:10,102 [27] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:57:10,185 [20] INFO  SIP Account registration info : Error
+2024-05-14 15:57:10,223 [20] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:57:10,251 [27] INFO  SIP Account registration info : Error
+2024-05-14 15:57:10,286 [27] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:57:10,348 [20] INFO  SIP Account registration info : Error
+2024-05-14 15:57:10,389 [20] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:57:10,466 [20] INFO  SIP Account registration info : Error
+2024-05-14 15:57:10,503 [20] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:57:10,515 [20] INFO  SIP Account registration info : Error
+2024-05-14 15:57:10,550 [20] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:57:10,561 [20] INFO  SIP Account registration info : Error
+2024-05-14 15:57:10,597 [20] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:57:10,626 [20] INFO  SIP Account registration info : Error
+2024-05-14 15:57:10,661 [20] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:57:10,672 [20] INFO  SIP Account registration info : Error
+2024-05-14 15:57:10,709 [20] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:57:10,747 [20] INFO  SIP Account registration info : Error
+2024-05-14 15:57:10,782 [20] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:57:19,360 [9] INFO  frmLogin_Load
+2024-05-14 15:57:20,478 [9] INFO  btnLogin_Click
+2024-05-14 15:57:21,631 [9] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-05-14 15:57:23,258 [9] INFO  IP : 192.168.1.4
+2024-05-14 15:57:24,258 [9] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:57:56,355 [26] INFO  SIP Account registration info : Error
+2024-05-14 15:57:56,393 [26] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:58:28,414 [26] INFO  SIP Account registration info : Error
+2024-05-14 15:58:28,452 [26] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:59:00,471 [15] INFO  SIP Account registration info : Error
+2024-05-14 15:59:00,510 [15] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 15:59:32,528 [25] INFO  SIP Account registration info : Error
+2024-05-14 15:59:32,568 [25] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:00:04,585 [15] INFO  SIP Account registration info : Error
+2024-05-14 16:00:04,622 [15] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:00:36,635 [10] INFO  SIP Account registration info : Error
+2024-05-14 16:00:36,671 [10] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:01:08,682 [15] INFO  SIP Account registration info : Error
+2024-05-14 16:01:08,724 [15] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:01:36,347 [28] INFO  SIP Account registration info : Error
+2024-05-14 16:01:36,383 [28] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:01:36,394 [28] INFO  SIP Account registration info : Error
+2024-05-14 16:01:36,431 [28] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:01:36,444 [28] INFO  SIP Account registration info : Error
+2024-05-14 16:01:36,483 [28] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:01:36,521 [28] INFO  SIP Account registration info : Error
+2024-05-14 16:01:36,558 [28] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:01:36,612 [28] INFO  SIP Account registration info : Error
+2024-05-14 16:01:36,651 [28] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:01:36,743 [28] INFO  SIP Account registration info : Error
+2024-05-14 16:01:36,781 [28] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:01:36,914 [28] INFO  SIP Account registration info : Error
+2024-05-14 16:01:36,952 [28] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:01:37,049 [20] INFO  SIP Account registration info : Error
+2024-05-14 16:01:37,086 [20] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:01:37,194 [28] INFO  SIP Account registration info : Error
+2024-05-14 16:01:37,231 [28] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:01:37,347 [20] INFO  SIP Account registration info : Error
+2024-05-14 16:01:37,385 [20] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:01:38,273 [29] INFO  SIP Account registration info : Error
+2024-05-14 16:01:38,309 [29] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:01:38,484 [29] INFO  SIP Account registration info : Error
+2024-05-14 16:01:38,519 [29] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:01:39,016 [29] INFO  SIP Account registration info : Error
+2024-05-14 16:01:39,052 [29] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:01:39,766 [20] INFO  SIP Account registration info : Error
+2024-05-14 16:01:39,801 [20] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:02:11,929 [10] INFO  SIP Account registration info : Error
+2024-05-14 16:02:11,967 [10] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:02:43,971 [15] INFO  SIP Account registration info : Error
+2024-05-14 16:02:44,009 [15] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:03:16,018 [10] INFO  SIP Account registration info : Error
+2024-05-14 16:03:16,056 [10] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:03:48,070 [17] INFO  SIP Account registration info : Error
+2024-05-14 16:03:48,108 [17] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:04:20,111 [25] INFO  SIP Account registration info : Error
+2024-05-14 16:04:20,148 [25] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:04:52,161 [17] INFO  SIP Account registration info : Error
+2024-05-14 16:04:52,197 [17] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:05:24,205 [25] INFO  SIP Account registration info : Error
+2024-05-14 16:05:24,244 [25] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:05:56,254 [6] INFO  SIP Account registration info : Error
+2024-05-14 16:05:56,294 [6] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:06:12,007 [13] INFO  SIP Account registration info : Error
+2024-05-14 16:06:12,043 [13] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:06:12,102 [13] INFO  SIP Account registration info : Error
+2024-05-14 16:06:12,141 [13] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:06:12,199 [13] INFO  SIP Account registration info : Error
+2024-05-14 16:06:12,239 [13] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:06:12,253 [13] INFO  SIP Account registration info : Error
+2024-05-14 16:06:12,293 [13] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:06:44,312 [6] INFO  SIP Account registration info : Error
+2024-05-14 16:06:44,350 [6] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:07:16,365 [10] INFO  SIP Account registration info : Error
+2024-05-14 16:07:16,403 [10] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:07:48,419 [27] INFO  SIP Account registration info : Error
+2024-05-14 16:07:48,456 [27] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:08:20,472 [10] INFO  SIP Account registration info : Error
+2024-05-14 16:08:20,509 [10] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:08:52,520 [17] INFO  SIP Account registration info : Error
+2024-05-14 16:08:52,561 [17] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:09:24,580 [19] INFO  SIP Account registration info : Error
+2024-05-14 16:09:24,620 [19] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:09:56,628 [10] INFO  SIP Account registration info : Error
+2024-05-14 16:09:56,665 [10] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:10:28,678 [27] INFO  SIP Account registration info : Error
+2024-05-14 16:10:28,719 [27] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:11:00,725 [25] INFO  SIP Account registration info : Error
+2024-05-14 16:11:00,765 [25] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:11:32,786 [17] INFO  SIP Account registration info : Error
+2024-05-14 16:11:32,825 [17] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:12:04,841 [31] INFO  SIP Account registration info : Error
+2024-05-14 16:12:04,882 [31] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:12:36,899 [27] INFO  SIP Account registration info : Error
+2024-05-14 16:12:36,936 [27] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:13:08,951 [25] INFO  SIP Account registration info : Error
+2024-05-14 16:13:08,987 [25] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:13:41,005 [27] INFO  SIP Account registration info : Error
+2024-05-14 16:13:41,041 [27] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:14:13,055 [19] INFO  SIP Account registration info : Error
+2024-05-14 16:14:13,090 [19] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:14:45,099 [19] INFO  SIP Account registration info : Error
+2024-05-14 16:14:45,141 [19] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:15:09,018 [8] INFO  frmLogin_Load
+2024-05-14 16:15:12,265 [8] INFO  btnLogin_Click
+2024-05-14 16:15:21,704 [8] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-05-14 16:15:23,541 [8] INFO  IP : 192.168.1.4
+2024-05-14 16:15:24,631 [8] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:15:56,786 [25] INFO  SIP Account registration info : Error
+2024-05-14 16:15:56,825 [25] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:16:28,840 [26] INFO  SIP Account registration info : Error
+2024-05-14 16:16:28,877 [26] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:17:00,881 [17] INFO  SIP Account registration info : Error
+2024-05-14 16:17:00,920 [17] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:17:32,928 [17] INFO  SIP Account registration info : Error
+2024-05-14 16:17:32,966 [17] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:18:16,143 [1] INFO  frmLogin_Load
+2024-05-14 16:18:23,409 [1] INFO  btnLogin_Click
+2024-05-14 16:18:24,626 [1] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-05-14 16:18:26,211 [1] INFO  IP : 192.168.1.4
+2024-05-14 16:18:27,178 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:18:27,352 [19] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-14 16:19:07,201 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:19:07,305 [21] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-14 16:19:12,805 [9] INFO  frmLogin_Load
+2024-05-14 16:19:13,857 [9] INFO  btnLogin_Click
+2024-05-14 16:19:14,919 [9] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-05-14 16:19:16,473 [9] INFO  IP : 192.168.1.4
+2024-05-14 16:19:17,488 [9] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:19:17,671 [27] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-14 16:19:23,209 [21] INFO  Incoming call from : 8001
+2024-05-14 16:19:23,242 [21] INFO  Call state changed : Ringing
+2024-05-14 16:19:25,344 [9] INFO  Call state changed : Answered
+2024-05-14 16:19:25,533 [9] INFO  Call Started.
+2024-05-14 16:19:25,571 [9] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-14 16:19:25,572 [9] INFO  Call state changed : InCall
+2024-05-14 16:19:25,574 [9] INFO  Call Accepted
+2024-05-14 16:19:49,517 [28] INFO  Call state changed : Completed
+2024-05-14 16:19:50,031 [28] INFO  Call Ended.
+2024-05-14 16:19:50,069 [28] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:19:50,099 [28] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-14 16:19:53,915 [28] INFO  Incoming call from : 8001
+2024-05-14 16:19:53,919 [28] INFO  Call state changed : Ringing
+2024-05-14 16:19:55,912 [9] INFO  Call state changed : Answered
+2024-05-14 16:19:56,213 [9] INFO  Call Started.
+2024-05-14 16:19:56,215 [9] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-14 16:19:56,216 [9] INFO  Call state changed : InCall
+2024-05-14 16:19:56,216 [9] INFO  Call Accepted
+2024-05-14 16:20:21,797 [10] INFO  frmLogin_Load
+2024-05-14 16:20:22,721 [10] INFO  btnLogin_Click
+2024-05-14 16:20:23,824 [10] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-05-14 16:20:25,399 [10] INFO  IP : 192.168.1.4
+2024-05-14 16:20:26,417 [10] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:20:26,592 [20] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-14 16:20:29,061 [21] INFO  Incoming call from : 8001
+2024-05-14 16:20:29,096 [21] INFO  Call state changed : Ringing
+2024-05-14 16:20:30,451 [10] INFO  Call state changed : Answered
+2024-05-14 16:20:30,544 [10] INFO  Call Started.
+2024-05-14 16:20:30,580 [10] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-14 16:20:30,581 [10] INFO  Call state changed : InCall
+2024-05-14 16:20:30,582 [10] INFO  Call Accepted
+2024-05-14 16:20:57,121 [10] INFO  Call state changed : Completed
+2024-05-14 16:20:57,625 [10] INFO  Call Ended.
+2024-05-14 16:20:57,662 [10] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:20:57,667 [10] INFO  Call Hanged Up
+2024-05-14 16:20:59,132 [21] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-14 16:21:41,800 [10] INFO  frmLogin_Load
+2024-05-14 16:21:43,582 [10] INFO  btnLogin_Click
+2024-05-14 16:21:44,689 [10] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-05-14 16:21:46,309 [10] INFO  IP : 192.168.1.4
+2024-05-14 16:21:47,307 [10] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:21:47,492 [21] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-14 16:21:50,052 [20] INFO  Incoming call from : 8001
+2024-05-14 16:21:50,087 [20] INFO  Call state changed : Ringing
+2024-05-14 16:21:52,206 [10] INFO  Call state changed : Answered
+2024-05-14 16:21:52,302 [10] INFO  Call Started.
+2024-05-14 16:21:52,339 [10] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-14 16:21:52,340 [10] INFO  Call state changed : InCall
+2024-05-14 16:21:52,341 [10] INFO  Call Accepted
+2024-05-14 16:22:45,964 [20] INFO  Call state changed : Completed
+2024-05-14 16:22:46,500 [20] INFO  Call Ended.
+2024-05-14 16:22:46,539 [20] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:22:47,924 [47] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-14 16:22:52,655 [45] INFO  Incoming call from : 8001
+2024-05-14 16:22:52,660 [45] INFO  Call state changed : Ringing
+2024-05-14 16:22:53,990 [10] INFO  Call state changed : Answered
+2024-05-14 16:22:54,304 [10] INFO  Call Started.
+2024-05-14 16:22:54,305 [10] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-14 16:22:54,306 [10] INFO  Call state changed : InCall
+2024-05-14 16:22:54,307 [10] INFO  Call Accepted
+2024-05-14 16:24:32,361 [10] INFO  Call state changed : Completed
+2024-05-14 16:24:32,862 [10] INFO  Call Ended.
+2024-05-14 16:24:32,900 [10] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:24:32,906 [10] INFO  Call Hanged Up
+2024-05-14 16:24:32,910 [40] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-14 16:27:43,127 [36] INFO  Incoming call from : 8001
+2024-05-14 16:27:43,130 [36] INFO  Call state changed : Ringing
+2024-05-14 16:27:46,337 [10] INFO  Call state changed : Answered
+2024-05-14 16:27:46,695 [10] INFO  Call Started.
+2024-05-14 16:27:46,696 [10] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-14 16:27:46,697 [10] INFO  Call state changed : InCall
+2024-05-14 16:27:46,698 [10] INFO  Call Accepted
+2024-05-14 16:29:19,508 [10] INFO  Call state changed : Completed
+2024-05-14 16:29:20,042 [10] INFO  Call Ended.
+2024-05-14 16:29:20,080 [10] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:29:20,086 [10] INFO  Call Hanged Up
+2024-05-14 16:29:21,192 [12] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-14 16:32:20,904 [45] INFO  Incoming call from : 8001
+2024-05-14 16:32:20,907 [45] INFO  Call state changed : Ringing
+2024-05-14 16:32:23,612 [10] INFO  Call state changed : Answered
+2024-05-14 16:32:24,005 [10] INFO  Call Started.
+2024-05-14 16:32:24,006 [10] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-14 16:32:24,007 [10] INFO  Call state changed : InCall
+2024-05-14 16:32:24,008 [10] INFO  Call Accepted
+2024-05-14 16:32:24,090 [17] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-14 16:32:24,095 [17] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-14 16:32:24,099 [17] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-14 16:32:24,101 [17] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-14 16:32:24,183 [39] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-14 16:32:24,184 [17] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-14 16:32:24,191 [39] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-14 16:32:24,197 [17] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-14 16:32:50,182 [10] INFO  Call state changed : Completed
+2024-05-14 16:32:50,686 [10] INFO  Call Ended.
+2024-05-14 16:32:50,722 [10] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:32:50,729 [10] INFO  Call Hanged Up
+2024-05-14 16:32:50,800 [27] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-14 16:35:24,613 [9] INFO  frmLogin_Load
+2024-05-14 16:35:25,572 [9] INFO  btnLogin_Click
+2024-05-14 16:35:26,706 [9] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-05-14 16:35:28,112 [9] INFO  IP : 192.168.1.4
+2024-05-14 16:35:29,169 [9] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:35:29,465 [20] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-14 16:35:36,324 [20] INFO  Incoming call from : 8001
+2024-05-14 16:35:36,356 [20] INFO  Call state changed : Ringing
+2024-05-14 16:35:40,016 [9] INFO  Call state changed : Answered
+2024-05-14 16:35:40,156 [9] INFO  Call Started.
+2024-05-14 16:35:40,187 [9] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-14 16:35:40,188 [9] INFO  Call state changed : InCall
+2024-05-14 16:35:40,189 [9] INFO  Call Accepted
+2024-05-14 16:35:42,221 [20] INFO  Call state changed : Completed
+2024-05-14 16:35:42,748 [20] INFO  Call Ended.
+2024-05-14 16:35:42,789 [20] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:35:42,805 [20] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-14 16:35:44,683 [34] INFO  Incoming call from : 8001
+2024-05-14 16:35:44,688 [34] INFO  Call state changed : Ringing
+2024-05-14 16:35:47,279 [9] INFO  Call state changed : Answered
+2024-05-14 16:35:47,610 [9] INFO  Call Started.
+2024-05-14 16:35:47,611 [9] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-14 16:35:47,612 [9] INFO  Call state changed : InCall
+2024-05-14 16:35:47,613 [9] INFO  Call Accepted
+2024-05-14 16:35:47,690 [20] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-14 16:35:47,695 [20] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-14 16:35:47,701 [20] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-14 16:35:47,703 [20] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-14 16:35:47,734 [28] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-14 16:35:47,736 [21] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-14 16:35:47,739 [28] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-14 16:35:47,742 [21] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-14 16:36:20,018 [20] INFO  Call state changed : Completed
+2024-05-14 16:36:20,519 [20] INFO  Call Ended.
+2024-05-14 16:36:20,557 [20] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:36:20,582 [20] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-14 16:36:22,758 [20] INFO  Incoming call from : 8001
+2024-05-14 16:36:22,761 [20] INFO  Call state changed : Ringing
+2024-05-14 16:36:24,895 [9] INFO  Call state changed : Answered
+2024-05-14 16:36:25,201 [9] INFO  Call Started.
+2024-05-14 16:36:25,202 [9] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-14 16:36:25,203 [9] INFO  Call state changed : InCall
+2024-05-14 16:36:25,204 [9] INFO  Call Accepted
+2024-05-14 16:36:27,049 [3] INFO  Call state changed : Completed
+2024-05-14 16:36:27,585 [3] INFO  Call Ended.
+2024-05-14 16:36:27,622 [3] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:36:27,659 [3] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-14 16:36:29,538 [38] INFO  Incoming call from : 8001
+2024-05-14 16:36:29,541 [38] INFO  Call state changed : Ringing
+2024-05-14 16:36:31,217 [9] INFO  Call state changed : Answered
+2024-05-14 16:36:31,527 [9] INFO  Call Started.
+2024-05-14 16:36:31,528 [9] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-14 16:36:31,529 [9] INFO  Call state changed : InCall
+2024-05-14 16:36:31,530 [9] INFO  Call Accepted
+2024-05-14 16:36:31,545 [21] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-14 16:36:31,553 [21] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-14 16:36:31,556 [21] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-14 16:36:31,557 [21] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-14 16:36:31,590 [21] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-14 16:36:31,594 [21] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-14 16:36:31,596 [21] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-14 16:36:31,600 [21] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-14 16:37:01,110 [29] INFO  Call state changed : Completed
+2024-05-14 16:37:01,607 [29] INFO  Call Ended.
+2024-05-14 16:37:01,644 [29] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:37:01,655 [29] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-14 16:40:51,990 [3] INFO  Incoming call from : 8001
+2024-05-14 16:40:51,992 [3] INFO  Call state changed : Ringing
+2024-05-14 16:40:53,916 [9] INFO  Call state changed : Answered
+2024-05-14 16:40:54,287 [9] INFO  Call Started.
+2024-05-14 16:40:54,288 [9] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-14 16:40:54,289 [9] INFO  Call state changed : InCall
+2024-05-14 16:40:54,290 [9] INFO  Call Accepted
+2024-05-14 16:40:56,172 [3] INFO  Call state changed : Completed
+2024-05-14 16:40:56,669 [3] INFO  Call Ended.
+2024-05-14 16:40:56,705 [3] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:40:56,719 [3] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-14 16:40:58,784 [33] INFO  Incoming call from : 8001
+2024-05-14 16:40:58,789 [33] INFO  Call state changed : Ringing
+2024-05-14 16:40:59,834 [9] INFO  Call state changed : Answered
+2024-05-14 16:41:00,155 [9] INFO  Call Started.
+2024-05-14 16:41:00,156 [9] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-14 16:41:00,157 [9] INFO  Call state changed : InCall
+2024-05-14 16:41:00,158 [9] INFO  Call Accepted
+2024-05-14 16:41:02,088 [33] INFO  Call state changed : Completed
+2024-05-14 16:41:02,587 [33] INFO  Call Ended.
+2024-05-14 16:41:02,627 [33] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:41:02,841 [33] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-14 16:41:04,526 [37] INFO  Incoming call from : 8001
+2024-05-14 16:41:04,532 [37] INFO  Call state changed : Ringing
+2024-05-14 16:41:07,180 [9] INFO  Call state changed : Answered
+2024-05-14 16:41:07,474 [9] INFO  Call Started.
+2024-05-14 16:41:07,475 [9] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-14 16:41:07,476 [9] INFO  Call state changed : InCall
+2024-05-14 16:41:07,477 [9] INFO  Call Accepted
+2024-05-14 16:41:08,087 [37] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-14 16:41:08,092 [37] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-14 16:41:08,095 [37] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-14 16:41:08,095 [37] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-14 16:41:08,325 [33] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-14 16:41:08,332 [35] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-14 16:41:08,333 [33] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-14 16:41:08,335 [35] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-14 16:41:37,092 [37] INFO  Call state changed : Completed
+2024-05-14 16:41:37,594 [37] INFO  Call Ended.
+2024-05-14 16:41:37,634 [37] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:41:37,670 [37] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-14 16:42:36,362 [9] INFO  frmLogin_Load
+2024-05-14 16:42:37,121 [9] INFO  btnLogin_Click
+2024-05-14 16:42:40,893 [9] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-05-14 16:42:42,246 [9] INFO  IP : 192.168.1.4
+2024-05-14 16:42:43,294 [9] INFO  SIP Account registration info : RegistrationRequested
+2024-05-14 16:42:43,486 [26] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-14 16:43:46,965 [26] INFO  Incoming call from : 8001
+2024-05-14 16:43:46,997 [26] INFO  Call state changed : Ringing
+2024-05-14 16:43:49,086 [9] INFO  Call state changed : Answered
+2024-05-14 16:43:49,177 [9] INFO  Call Started.
+2024-05-14 16:43:49,208 [9] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-14 16:43:49,209 [9] INFO  Call state changed : InCall
+2024-05-14 16:43:49,211 [9] INFO  Call Accepted
+2024-05-14 16:43:49,238 [19] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-14 16:43:49,248 [19] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-14 16:43:49,251 [19] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-14 16:43:49,256 [19] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-14 16:43:49,271 [19] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-14 16:43:49,280 [14] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-14 16:43:49,281 [19] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-14 16:43:49,285 [14] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-20 17:49:13,398 [1] INFO  frmLogin_Load
+2024-05-20 17:49:16,223 [1] INFO  btnLogin_Click
+2024-05-20 17:49:23,401 [1] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-05-20 17:49:25,268 [1] INFO  IP : 192.168.1.4
+2024-05-20 17:49:26,487 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-20 17:49:26,933 [11] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-20 17:50:10,171 [17] INFO  Incoming call from : 8001
+2024-05-20 17:50:10,212 [17] INFO  Call state changed : Ringing
+2024-05-20 17:50:15,588 [1] INFO  Call state changed : Answered
+2024-05-20 17:50:15,729 [1] INFO  Call Started.
+2024-05-20 17:50:15,756 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-20 17:50:15,756 [1] INFO  Call state changed : InCall
+2024-05-20 17:50:15,757 [1] INFO  Call Accepted
+2024-05-20 17:50:15,831 [17] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-20 17:50:15,836 [17] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-20 17:50:15,838 [17] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-20 17:50:15,839 [17] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-20 17:50:15,860 [7] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-20 17:50:15,861 [17] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-20 17:50:15,866 [7] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-20 17:50:15,869 [17] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-20 17:51:09,944 [21] INFO  Call state changed : Completed
+2024-05-20 17:51:10,461 [21] INFO  Call Ended.
+2024-05-20 17:51:10,509 [21] INFO  SIP Account registration info : RegistrationRequested
+2024-05-20 17:51:10,528 [21] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-20 17:51:14,005 [21] INFO  Incoming call from : 8001
+2024-05-20 17:51:14,008 [21] INFO  Call state changed : Ringing
+2024-05-20 17:51:16,378 [1] INFO  Call state changed : Answered
+2024-05-20 17:51:16,709 [1] INFO  Call Started.
+2024-05-20 17:51:16,710 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-20 17:51:16,711 [1] INFO  Call state changed : InCall
+2024-05-20 17:51:16,712 [1] INFO  Call Accepted
+2024-05-20 17:51:16,738 [21] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-20 17:51:16,742 [21] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-20 17:51:16,743 [21] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-20 17:51:16,744 [21] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-20 17:51:16,762 [12] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-20 17:51:16,764 [21] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-20 17:51:16,766 [12] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-20 17:51:16,768 [21] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-20 17:52:12,471 [1] INFO  Call state changed : Completed
+2024-05-20 17:52:12,975 [1] INFO  Call Ended.
+2024-05-20 17:52:13,033 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-20 17:52:13,039 [1] INFO  Call Hanged Up
+2024-05-20 17:52:13,049 [27] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-20 17:53:50,219 [9] INFO  frmLogin_Load
+2024-05-20 17:53:51,941 [9] INFO  btnLogin_Click
+2024-05-20 17:53:54,963 [9] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-05-20 17:53:56,626 [9] INFO  IP : 192.168.1.4
+2024-05-20 17:53:57,722 [9] INFO  SIP Account registration info : RegistrationRequested
+2024-05-20 17:53:57,911 [21] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-20 17:54:06,296 [21] INFO  Incoming call from : 8001
+2024-05-20 17:54:06,333 [21] INFO  Call state changed : Ringing
+2024-05-20 17:54:09,117 [9] INFO  Call state changed : Answered
+2024-05-20 17:54:09,219 [9] INFO  Call Started.
+2024-05-20 17:54:09,265 [9] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-20 17:54:09,266 [9] INFO  Call state changed : InCall
+2024-05-20 17:54:09,267 [9] INFO  Call Accepted
+2024-05-20 17:54:09,289 [21] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-20 17:54:09,294 [21] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-20 17:54:09,303 [21] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-20 17:54:09,305 [21] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-20 17:54:09,313 [21] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-20 17:54:09,320 [22] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-20 17:54:09,325 [21] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-20 17:54:09,327 [22] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-20 17:54:18,164 [9] INFO  Call state changed : Completed
+2024-05-20 17:54:18,683 [9] INFO  Call Ended.
+2024-05-20 17:54:18,728 [9] INFO  SIP Account registration info : RegistrationRequested
+2024-05-20 17:54:18,737 [9] INFO  Call Hanged Up
+2024-05-20 17:54:18,741 [31] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-20 17:54:34,064 [1] INFO  frmLogin_Load
+2024-05-20 17:54:35,377 [1] INFO  btnLogin_Click
+2024-05-20 17:54:54,375 [1] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-05-20 17:54:56,045 [1] INFO  IP : 192.168.1.4
+2024-05-20 17:54:57,038 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-20 17:54:57,207 [17] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-20 17:55:00,429 [10] INFO  Incoming call from : 8001
+2024-05-20 17:55:00,464 [10] INFO  Call state changed : Ringing
+2024-05-20 17:55:02,581 [1] INFO  Call state changed : Answered
+2024-05-20 17:55:02,682 [1] INFO  Call Started.
+2024-05-20 17:55:02,720 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-20 17:55:02,721 [1] INFO  Call state changed : InCall
+2024-05-20 17:55:02,722 [1] INFO  Call Accepted
+2024-05-20 17:55:02,782 [10] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-20 17:55:02,787 [10] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-20 17:55:02,788 [10] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-20 17:55:02,790 [10] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-20 17:55:02,832 [19] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-20 17:55:02,833 [11] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-20 17:55:02,837 [19] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-20 17:55:02,846 [11] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-20 17:55:32,884 [30] INFO  Call state changed : Completed
+2024-05-20 17:55:33,390 [30] INFO  Call Ended.
+2024-05-20 17:55:33,437 [30] INFO  SIP Account registration info : RegistrationRequested
+2024-05-20 17:55:33,525 [30] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-20 17:55:37,690 [30] INFO  Incoming call from : 8001
+2024-05-20 17:55:37,696 [30] INFO  Call state changed : Ringing
+2024-05-20 17:55:40,627 [1] INFO  Call state changed : Answered
+2024-05-20 17:55:40,936 [1] INFO  Call Started.
+2024-05-20 17:55:40,937 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-20 17:55:40,938 [1] INFO  Call state changed : InCall
+2024-05-20 17:55:40,939 [1] INFO  Call Accepted
+2024-05-20 17:55:40,958 [30] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-20 17:55:40,962 [30] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-20 17:55:40,964 [30] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-20 17:55:40,965 [30] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-20 17:55:40,985 [27] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-20 17:55:40,986 [31] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-20 17:55:40,990 [27] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-20 17:55:40,992 [31] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-20 17:56:09,326 [1] INFO  Call state changed : Completed
+2024-05-20 17:56:09,813 [1] INFO  Call Ended.
+2024-05-20 17:56:09,865 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-20 17:56:09,875 [1] INFO  Call Hanged Up
+2024-05-20 17:56:09,947 [26] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 09:42:33,783 [1] INFO  frmLogin_Load
+2024-05-21 09:42:35,737 [1] INFO  btnLogin_Click
+2024-05-21 09:42:37,040 [1] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-05-21 09:42:38,536 [1] INFO  IP : 192.168.1.4
+2024-05-21 09:42:39,710 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 09:42:40,184 [11] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 09:42:42,512 [19] INFO  Incoming call from : 8001
+2024-05-21 09:42:42,542 [19] INFO  Call state changed : Ringing
+2024-05-21 09:42:45,860 [1] INFO  Call state changed : Answered
+2024-05-21 09:42:45,982 [1] INFO  Call Started.
+2024-05-21 09:42:46,009 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 09:42:46,010 [1] INFO  Call state changed : InCall
+2024-05-21 09:42:46,012 [1] INFO  Call Accepted
+2024-05-21 09:42:46,170 [23] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 09:42:46,174 [23] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 09:42:46,175 [23] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 09:42:46,177 [23] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 09:42:46,312 [12] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 09:42:46,313 [23] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 09:42:46,316 [12] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 09:42:46,318 [23] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 09:43:16,717 [30] INFO  Call state changed : Completed
+2024-05-21 09:43:17,242 [30] INFO  Call Ended.
+2024-05-21 09:43:17,286 [30] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 09:43:17,309 [33] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 09:46:18,169 [40] INFO  Incoming call from : 8001
+2024-05-21 09:46:18,173 [40] INFO  Call state changed : Ringing
+2024-05-21 09:46:21,354 [1] INFO  Call state changed : Answered
+2024-05-21 09:46:21,811 [1] INFO  Call Started.
+2024-05-21 09:46:21,813 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 09:46:21,813 [1] INFO  Call state changed : InCall
+2024-05-21 09:46:21,814 [1] INFO  Call Accepted
+2024-05-21 09:46:21,956 [39] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 09:46:21,960 [39] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 09:46:21,962 [39] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 09:46:21,963 [39] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 09:46:22,081 [7] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 09:46:22,082 [39] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 09:46:22,086 [7] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 09:46:22,087 [39] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 09:46:39,565 [1] INFO  Call state changed : Completed
+2024-05-21 09:46:40,076 [1] INFO  Call Ended.
+2024-05-21 09:46:40,121 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 09:46:40,129 [1] INFO  Call Hanged Up
+2024-05-21 09:46:40,248 [40] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 09:46:44,499 [40] INFO  Incoming call from : 8001
+2024-05-21 09:46:44,501 [40] INFO  Call state changed : Ringing
+2024-05-21 09:46:54,346 [1] INFO  Call state changed : Answered
+2024-05-21 09:46:54,737 [1] INFO  Call Started.
+2024-05-21 09:46:54,738 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 09:46:54,738 [1] INFO  Call state changed : InCall
+2024-05-21 09:46:54,739 [1] INFO  Call Accepted
+2024-05-21 09:46:54,844 [37] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 09:46:54,847 [37] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 09:46:54,848 [37] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 09:46:54,849 [37] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 09:46:54,871 [36] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 09:46:54,872 [35] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 09:46:54,875 [36] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 09:46:54,878 [35] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 09:46:58,038 [1] INFO  Call state changed : Completed
+2024-05-21 09:46:58,828 [1] INFO  Call Ended.
+2024-05-21 09:46:58,873 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 09:46:58,879 [1] INFO  Call Hanged Up
+2024-05-21 09:46:58,908 [40] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 09:55:08,127 [22] INFO  Incoming call from : 8001
+2024-05-21 09:55:08,131 [22] INFO  Call state changed : Ringing
+2024-05-21 09:55:11,733 [1] INFO  Call state changed : Answered
+2024-05-21 09:55:12,206 [1] INFO  Call Started.
+2024-05-21 09:55:12,208 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 09:55:12,208 [1] INFO  Call state changed : InCall
+2024-05-21 09:55:12,209 [1] INFO  Call Accepted
+2024-05-21 09:55:12,441 [22] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 09:55:12,449 [22] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 09:55:12,450 [22] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 09:55:12,453 [22] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 09:55:12,554 [27] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 09:55:12,555 [22] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 09:55:12,557 [27] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 09:55:12,562 [22] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 09:55:41,833 [27] INFO  Call state changed : Completed
+2024-05-21 09:55:42,644 [27] INFO  Call Ended.
+2024-05-21 09:55:42,690 [27] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 09:55:42,871 [23] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 09:55:44,870 [23] INFO  Incoming call from : 8001
+2024-05-21 09:55:44,873 [23] INFO  Call state changed : Ringing
+2024-05-21 09:55:47,437 [1] INFO  Call state changed : Answered
+2024-05-21 09:55:47,768 [1] INFO  Call Started.
+2024-05-21 09:55:47,769 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 09:55:47,770 [1] INFO  Call state changed : InCall
+2024-05-21 09:55:47,771 [1] INFO  Call Accepted
+2024-05-21 09:55:47,794 [23] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 09:55:47,797 [23] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 09:55:47,801 [23] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 09:55:47,801 [23] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 09:55:47,893 [27] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 09:55:47,897 [27] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 09:55:47,923 [27] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 09:55:47,926 [27] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 09:56:17,373 [36] INFO  Call state changed : Completed
+2024-05-21 09:56:17,886 [36] INFO  Call Ended.
+2024-05-21 09:56:17,928 [36] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 09:56:17,978 [7] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 09:56:24,902 [7] INFO  Incoming call from : 8001
+2024-05-21 09:56:24,905 [7] INFO  Call state changed : Ringing
+2024-05-21 09:56:27,754 [1] INFO  Call state changed : Answered
+2024-05-21 09:56:28,082 [1] INFO  Call Started.
+2024-05-21 09:56:28,083 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 09:56:28,084 [1] INFO  Call state changed : InCall
+2024-05-21 09:56:28,084 [1] INFO  Call Accepted
+2024-05-21 09:56:28,113 [46] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 09:56:28,120 [46] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 09:56:28,122 [46] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 09:56:28,123 [46] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 09:56:28,151 [35] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 09:56:28,153 [46] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 09:56:28,156 [35] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 09:56:28,158 [46] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 09:56:28,936 [1] INFO  Call state changed : Completed
+2024-05-21 09:56:29,421 [1] INFO  Call Ended.
+2024-05-21 09:56:29,461 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 09:56:29,469 [1] INFO  Call Hanged Up
+2024-05-21 09:56:29,638 [35] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 10:02:42,582 [31] INFO  Incoming call from : 8001
+2024-05-21 10:02:42,587 [31] INFO  Call state changed : Ringing
+2024-05-21 10:02:53,553 [1] INFO  Call state changed : Answered
+2024-05-21 10:02:54,006 [1] INFO  Call Started.
+2024-05-21 10:02:54,007 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 10:02:54,008 [1] INFO  Call state changed : InCall
+2024-05-21 10:02:54,009 [1] INFO  Call Accepted
+2024-05-21 10:02:54,097 [28] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 10:02:54,100 [28] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 10:02:54,101 [28] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 10:02:54,101 [28] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 10:02:54,226 [31] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 10:02:54,227 [28] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 10:02:54,232 [31] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 10:02:54,236 [28] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 10:03:06,544 [1] INFO  Call state changed : Completed
+2024-05-21 10:03:07,023 [1] INFO  Call Ended.
+2024-05-21 10:03:07,071 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 10:03:07,077 [1] INFO  Call Hanged Up
+2024-05-21 10:03:07,175 [31] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 10:07:58,000 [5] INFO  Incoming call from : 8001
+2024-05-21 10:07:58,003 [5] INFO  Call state changed : Ringing
+2024-05-21 10:08:09,463 [1] INFO  Call state changed : Answered
+2024-05-21 10:08:09,918 [1] INFO  Call Started.
+2024-05-21 10:08:09,919 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 10:08:09,920 [1] INFO  Call state changed : InCall
+2024-05-21 10:08:09,920 [1] INFO  Call Accepted
+2024-05-21 10:08:10,437 [39] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 10:08:10,443 [39] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 10:08:10,445 [39] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 10:08:10,446 [39] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 10:08:10,890 [38] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 10:08:10,895 [38] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 10:08:11,043 [5] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 10:08:11,046 [5] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 10:08:39,570 [39] INFO  Call state changed : Completed
+2024-05-21 10:08:40,085 [39] INFO  Call Ended.
+2024-05-21 10:08:40,127 [39] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 10:08:40,186 [32] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 10:10:50,093 [28] INFO  Incoming call from : 8001
+2024-05-21 10:10:50,095 [28] INFO  Call state changed : Ringing
+2024-05-21 10:10:57,496 [1] INFO  Call state changed : Answered
+2024-05-21 10:10:57,948 [1] INFO  Call Started.
+2024-05-21 10:10:57,949 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 10:10:57,950 [1] INFO  Call state changed : InCall
+2024-05-21 10:10:57,951 [1] INFO  Call Accepted
+2024-05-21 10:10:58,084 [34] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 10:10:58,088 [34] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 10:10:58,089 [34] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 10:10:58,089 [34] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 10:10:58,385 [35] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 10:10:58,386 [33] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 10:10:58,392 [35] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 10:10:58,400 [33] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 10:11:05,831 [1] INFO  Call state changed : Completed
+2024-05-21 10:11:06,328 [1] INFO  Call Ended.
+2024-05-21 10:11:06,369 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 10:11:06,377 [1] INFO  Call Hanged Up
+2024-05-21 10:11:06,618 [37] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 10:14:11,981 [11] INFO  Incoming call from : 8001
+2024-05-21 10:14:11,986 [11] INFO  Call state changed : Ringing
+2024-05-21 10:14:22,929 [1] INFO  Call state changed : Answered
+2024-05-21 10:14:23,389 [1] INFO  Call Started.
+2024-05-21 10:14:23,390 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 10:14:23,391 [1] INFO  Call state changed : InCall
+2024-05-21 10:14:23,392 [1] INFO  Call Accepted
+2024-05-21 10:14:23,514 [46] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 10:14:23,519 [46] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 10:14:23,521 [46] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 10:14:23,523 [46] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 10:14:23,616 [36] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 10:14:23,617 [11] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 10:14:23,619 [36] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 10:14:23,623 [11] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 10:14:24,590 [1] INFO  Call state changed : Completed
+2024-05-21 10:14:25,097 [1] INFO  Call Ended.
+2024-05-21 10:14:25,142 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 10:14:25,151 [1] INFO  Call Hanged Up
+2024-05-21 10:14:25,320 [11] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 10:14:59,162 [36] INFO  Incoming call from : 8001
+2024-05-21 10:14:59,167 [36] INFO  Call state changed : Ringing
+2024-05-21 10:15:04,306 [1] INFO  Call state changed : Answered
+2024-05-21 10:15:04,767 [1] INFO  Call Started.
+2024-05-21 10:15:04,768 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 10:15:04,769 [1] INFO  Call state changed : InCall
+2024-05-21 10:15:04,769 [1] INFO  Call Accepted
+2024-05-21 10:15:04,950 [12] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 10:15:04,957 [12] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 10:15:04,959 [12] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 10:15:04,960 [12] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 10:15:05,080 [36] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 10:15:05,087 [36] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 10:15:05,151 [12] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 10:15:05,156 [12] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 10:15:05,661 [1] INFO  Call state changed : Completed
+2024-05-21 10:15:06,160 [1] INFO  Call Ended.
+2024-05-21 10:15:06,206 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 10:15:06,212 [1] INFO  Call Hanged Up
+2024-05-21 10:15:06,313 [22] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 10:19:27,188 [14] INFO  Incoming call from : 8001
+2024-05-21 10:19:27,190 [14] INFO  Call state changed : Ringing
+2024-05-21 10:19:46,070 [1] INFO  Call state changed : Answered
+2024-05-21 10:19:46,185 [1] INFO  Call Started.
+2024-05-21 10:19:46,186 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 10:19:46,187 [1] INFO  Call state changed : InCall
+2024-05-21 10:19:46,188 [1] INFO  Call Accepted
+2024-05-21 10:19:46,250 [34] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 10:19:46,254 [34] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 10:19:46,256 [34] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 10:19:46,256 [34] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 10:19:46,292 [32] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 10:19:46,295 [32] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 10:19:46,305 [32] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 10:19:46,309 [32] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 10:19:56,559 [1] INFO  Call state changed : Completed
+2024-05-21 10:19:56,763 [1] INFO  Call Ended.
+2024-05-21 10:19:56,816 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 10:19:56,823 [1] INFO  Call Hanged Up
+2024-05-21 10:19:56,859 [34] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 10:20:31,155 [14] INFO  Incoming call from : 8001
+2024-05-21 10:20:31,158 [14] INFO  Call state changed : Ringing
+2024-05-21 10:20:51,413 [1] INFO  Call state changed : Answered
+2024-05-21 10:20:51,774 [1] INFO  Call Started.
+2024-05-21 10:20:51,775 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 10:20:51,776 [1] INFO  Call state changed : InCall
+2024-05-21 10:20:51,777 [1] INFO  Call Accepted
+2024-05-21 10:20:51,797 [5] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 10:20:51,801 [5] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 10:20:51,802 [5] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 10:20:51,804 [5] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 10:20:51,857 [23] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 10:20:51,859 [5] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 10:20:51,863 [23] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 10:20:51,864 [5] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 10:20:54,625 [1] INFO  Call state changed : Completed
+2024-05-21 10:20:54,826 [1] INFO  Call Ended.
+2024-05-21 10:20:54,873 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 10:20:54,880 [1] INFO  Call Hanged Up
+2024-05-21 10:20:54,920 [5] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 10:21:11,227 [38] INFO  Incoming call from : 8001
+2024-05-21 10:21:11,231 [38] INFO  Call state changed : Ringing
+2024-05-21 10:21:28,285 [1] INFO  Call state changed : Answered
+2024-05-21 10:21:28,637 [1] INFO  Call Started.
+2024-05-21 10:21:28,639 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 10:21:28,639 [1] INFO  Call state changed : InCall
+2024-05-21 10:21:28,641 [1] INFO  Call Accepted
+2024-05-21 10:21:28,671 [14] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 10:21:28,675 [14] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 10:21:28,680 [14] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 10:21:28,680 [14] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 10:21:28,763 [29] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 10:21:28,766 [29] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 10:21:28,768 [29] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 10:21:28,772 [29] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 10:21:30,492 [1] INFO  Call state changed : Completed
+2024-05-21 10:21:30,707 [1] INFO  Call Ended.
+2024-05-21 10:21:30,752 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 10:21:30,758 [1] INFO  Call Hanged Up
+2024-05-21 10:21:30,774 [14] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 10:23:15,442 [33] INFO  Incoming call from : 8001
+2024-05-21 10:23:15,445 [33] INFO  Call state changed : Ringing
+2024-05-21 10:23:27,726 [1] INFO  Call state changed : Answered
+2024-05-21 10:23:28,175 [1] INFO  Call Started.
+2024-05-21 10:23:28,176 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 10:23:28,177 [1] INFO  Call state changed : InCall
+2024-05-21 10:23:28,178 [1] INFO  Call Accepted
+2024-05-21 10:23:28,295 [33] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 10:23:28,304 [33] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 10:23:28,307 [33] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 10:23:28,308 [33] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 10:23:28,419 [15] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 10:23:28,423 [15] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 10:23:28,437 [41] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 10:23:28,443 [41] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 10:23:28,962 [1] INFO  Call state changed : Completed
+2024-05-21 10:23:29,765 [1] INFO  Call Ended.
+2024-05-21 10:23:29,807 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 10:23:29,813 [1] INFO  Call Hanged Up
+2024-05-21 10:23:29,863 [33] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 10:24:37,445 [28] INFO  Incoming call from : 8001
+2024-05-21 10:24:37,450 [28] INFO  Call state changed : Ringing
+2024-05-21 10:24:49,747 [1] INFO  Call state changed : Answered
+2024-05-21 10:24:50,200 [1] INFO  Call Started.
+2024-05-21 10:24:50,202 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 10:24:50,202 [1] INFO  Call state changed : InCall
+2024-05-21 10:24:50,203 [1] INFO  Call Accepted
+2024-05-21 10:24:50,406 [28] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 10:24:50,412 [28] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 10:24:50,414 [28] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 10:24:50,414 [28] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 10:24:50,496 [32] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 10:24:50,497 [28] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 10:24:50,502 [32] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 10:24:50,505 [28] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 10:25:07,064 [1] INFO  Call state changed : Completed
+2024-05-21 10:25:07,580 [1] INFO  Call Ended.
+2024-05-21 10:25:07,627 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 10:25:07,634 [1] INFO  Call Hanged Up
+2024-05-21 10:25:07,668 [39] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 10:26:25,964 [21] INFO  Incoming call from : 8001
+2024-05-21 10:26:25,970 [21] INFO  Call state changed : Ringing
+2024-05-21 10:26:42,181 [1] INFO  Call state changed : Answered
+2024-05-21 10:26:42,650 [1] INFO  Call Started.
+2024-05-21 10:26:42,651 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 10:26:42,652 [1] INFO  Call state changed : InCall
+2024-05-21 10:26:42,657 [1] INFO  Call Accepted
+2024-05-21 10:26:42,783 [38] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 10:26:42,786 [38] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 10:26:42,788 [38] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 10:26:42,790 [38] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 10:26:42,851 [7] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 10:26:42,853 [5] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 10:26:42,855 [7] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 10:26:42,858 [5] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 10:27:01,777 [1] INFO  Call state changed : Completed
+2024-05-21 10:27:02,286 [1] INFO  Call Ended.
+2024-05-21 10:27:02,329 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 10:27:02,336 [1] INFO  Call Hanged Up
+2024-05-21 10:27:02,439 [5] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 10:28:05,235 [32] INFO  Incoming call from : 8001
+2024-05-21 10:28:05,238 [32] INFO  Call state changed : Ringing
+2024-05-21 10:28:09,663 [1] INFO  Call state changed : Answered
+2024-05-21 10:28:09,780 [1] INFO  Call Started.
+2024-05-21 10:28:09,781 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 10:28:09,781 [1] INFO  Call state changed : InCall
+2024-05-21 10:28:09,782 [1] INFO  Call Accepted
+2024-05-21 10:28:09,854 [5] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 10:28:09,857 [5] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 10:28:09,861 [5] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 10:28:09,861 [5] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 10:28:09,913 [32] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 10:28:09,917 [32] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 10:28:09,931 [32] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 10:28:09,935 [32] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 10:28:10,795 [1] INFO  Call state changed : Completed
+2024-05-21 10:28:10,997 [1] INFO  Call Ended.
+2024-05-21 10:28:11,043 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 10:28:11,050 [1] INFO  Call Hanged Up
+2024-05-21 10:28:11,658 [32] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 10:28:52,522 [37] INFO  Incoming call from : 8001
+2024-05-21 10:28:52,525 [37] INFO  Call state changed : Ringing
+2024-05-21 10:29:00,199 [1] INFO  Call state changed : Answered
+2024-05-21 10:29:00,669 [1] INFO  Call Started.
+2024-05-21 10:29:00,670 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 10:29:00,671 [1] INFO  Call state changed : InCall
+2024-05-21 10:29:00,672 [1] INFO  Call Accepted
+2024-05-21 10:29:01,515 [37] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 10:29:01,519 [37] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 10:29:01,520 [37] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 10:29:01,521 [37] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 10:29:02,586 [28] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 10:29:02,591 [28] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 10:29:03,003 [31] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 10:29:03,007 [31] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 10:29:36,357 [19] INFO  Call state changed : Completed
+2024-05-21 10:29:36,861 [19] INFO  Call Ended.
+2024-05-21 10:29:36,906 [19] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 10:29:37,210 [45] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 10:30:08,180 [45] INFO  Incoming call from : 8001
+2024-05-21 10:30:08,186 [45] INFO  Call state changed : Ringing
+2024-05-21 10:30:14,403 [1] INFO  Call state changed : Answered
+2024-05-21 10:30:14,525 [1] INFO  Call Started.
+2024-05-21 10:30:14,527 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 10:30:14,528 [1] INFO  Call state changed : InCall
+2024-05-21 10:30:14,529 [1] INFO  Call Accepted
+2024-05-21 10:30:14,611 [46] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 10:30:14,615 [46] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 10:30:14,616 [46] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 10:30:14,617 [46] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 10:30:14,692 [53] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 10:30:14,698 [53] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 10:30:14,703 [53] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 10:30:14,706 [53] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 10:30:38,825 [1] INFO  Call state changed : Completed
+2024-05-21 10:30:39,053 [1] INFO  Call Ended.
+2024-05-21 10:30:39,100 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 10:30:39,110 [1] INFO  Call Hanged Up
+2024-05-21 10:30:39,288 [45] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 10:31:35,207 [46] INFO  Incoming call from : 8001
+2024-05-21 10:31:35,211 [46] INFO  Call state changed : Ringing
+2024-05-21 10:31:38,817 [1] INFO  Call state changed : Answered
+2024-05-21 10:31:39,266 [1] INFO  Call Started.
+2024-05-21 10:31:39,267 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 10:31:39,268 [1] INFO  Call state changed : InCall
+2024-05-21 10:31:39,269 [1] INFO  Call Accepted
+2024-05-21 10:31:39,360 [46] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 10:31:39,363 [46] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 10:31:39,364 [46] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 10:31:39,364 [46] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 10:31:39,478 [30] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 10:31:39,479 [22] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 10:31:39,483 [30] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 10:31:39,485 [22] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 10:32:08,794 [21] INFO  Call state changed : Completed
+2024-05-21 10:32:09,306 [21] INFO  Call Ended.
+2024-05-21 10:32:09,358 [21] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 10:32:09,396 [45] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 10:32:16,095 [45] INFO  Incoming call from : 8001
+2024-05-21 10:32:16,099 [45] INFO  Call state changed : Ringing
+2024-05-21 10:32:18,991 [1] INFO  Call state changed : Answered
+2024-05-21 10:32:19,329 [1] INFO  Call Started.
+2024-05-21 10:32:19,330 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 10:32:19,331 [1] INFO  Call state changed : InCall
+2024-05-21 10:32:19,331 [1] INFO  Call Accepted
+2024-05-21 10:32:19,358 [45] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 10:32:19,361 [45] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 10:32:19,362 [45] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 10:32:19,363 [45] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 10:32:19,403 [21] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 10:32:19,404 [14] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 10:32:19,408 [21] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 10:32:19,411 [14] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 10:32:48,658 [45] INFO  Call state changed : Completed
+2024-05-21 10:32:49,455 [45] INFO  Call Ended.
+2024-05-21 10:32:49,497 [45] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 10:32:49,522 [40] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 11:30:04,471 [1] INFO  frmLogin_Load
+2024-05-21 11:30:05,589 [1] INFO  btnLogin_Click
+2024-05-21 11:30:09,697 [1] INFO  Api Resp 0  False 
+2024-05-21 11:30:16,630 [1] INFO  btnLogin_Click
+2024-05-21 11:30:28,683 [1] INFO  Api Resp 0  False 
+2024-05-21 11:30:34,000 [1] INFO  btnLogin_Click
+2024-05-21 11:30:37,296 [1] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-05-21 11:30:38,871 [1] INFO  IP : 192.168.1.4
+2024-05-21 11:30:39,950 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 11:30:40,396 [17] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 11:30:52,296 [10] INFO  Incoming call from : 8001
+2024-05-21 11:30:52,330 [10] INFO  Call state changed : Ringing
+2024-05-21 11:31:02,053 [1] INFO  Call state changed : Answered
+2024-05-21 11:31:02,183 [1] INFO  Call Started.
+2024-05-21 11:31:02,209 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 11:31:02,210 [1] INFO  Call state changed : InCall
+2024-05-21 11:31:02,211 [1] INFO  Call Accepted
+2024-05-21 11:31:02,236 [10] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 11:31:02,240 [10] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 11:31:02,242 [10] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 11:31:02,243 [10] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 11:31:02,265 [10] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 11:31:02,268 [11] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 11:31:02,293 [10] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 11:31:02,295 [11] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 11:31:31,893 [25] INFO  Call state changed : Completed
+2024-05-21 11:31:32,423 [25] INFO  Call Ended.
+2024-05-21 11:31:32,472 [25] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 11:31:32,573 [20] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 11:31:36,708 [20] INFO  Incoming call from : 8001
+2024-05-21 11:31:36,710 [20] INFO  Call state changed : Ringing
+2024-05-21 11:31:40,913 [1] INFO  Call state changed : Answered
+2024-05-21 11:31:41,242 [1] INFO  Call Started.
+2024-05-21 11:31:41,243 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 11:31:41,244 [1] INFO  Call state changed : InCall
+2024-05-21 11:31:41,244 [1] INFO  Call Accepted
+2024-05-21 11:31:41,315 [29] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 11:31:41,318 [29] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 11:31:41,319 [29] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 11:31:41,320 [29] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 11:31:41,465 [20] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 11:31:41,471 [29] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 11:31:41,473 [20] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 11:32:16,565 [21] INFO  Call state changed : Completed
+2024-05-21 11:32:17,060 [21] INFO  Call Ended.
+2024-05-21 11:32:17,104 [21] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 11:32:17,266 [30] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 11:35:46,084 [1] INFO  frmLogin_Load
+2024-05-21 11:35:47,289 [1] INFO  btnLogin_Click
+2024-05-21 11:35:48,600 [1] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-05-21 11:35:50,142 [1] INFO  IP : 192.168.1.6
+2024-05-21 11:35:51,143 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 11:35:51,310 [17] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 11:35:54,089 [10] INFO  Incoming call from : 8001
+2024-05-21 11:35:54,120 [10] INFO  Call state changed : Ringing
+2024-05-21 11:35:57,432 [1] INFO  Call state changed : Answered
+2024-05-21 11:35:57,516 [1] INFO  Call Started.
+2024-05-21 11:35:57,542 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 11:35:57,549 [1] INFO  Call state changed : InCall
+2024-05-21 11:35:57,550 [1] INFO  Call Accepted
+2024-05-21 11:35:57,565 [22] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 11:35:57,569 [22] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 11:35:57,571 [22] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 11:35:57,572 [22] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 11:35:57,584 [24] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 11:35:57,585 [22] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 11:35:57,588 [24] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 11:35:57,590 [22] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 11:36:27,549 [11] INFO  Call state changed : Completed
+2024-05-21 11:36:28,051 [11] INFO  Call Ended.
+2024-05-21 11:36:28,099 [11] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 11:36:28,115 [11] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 11:36:35,378 [11] INFO  Incoming call from : 8001
+2024-05-21 11:36:35,382 [11] INFO  Call state changed : Ringing
+2024-05-21 11:36:39,173 [1] INFO  Call state changed : Answered
+2024-05-21 11:36:39,653 [1] INFO  Call Started.
+2024-05-21 11:36:39,654 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 11:36:39,655 [1] INFO  Call state changed : InCall
+2024-05-21 11:36:39,655 [1] INFO  Call Accepted
+2024-05-21 11:36:39,668 [10] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 11:36:39,670 [10] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 11:36:39,671 [10] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 11:36:39,672 [10] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 11:36:39,683 [11] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 11:36:39,684 [24] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 11:36:39,687 [11] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 11:36:39,689 [24] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 11:37:08,933 [11] INFO  Call state changed : Completed
+2024-05-21 11:37:09,423 [11] INFO  Call Ended.
+2024-05-21 11:37:09,469 [11] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 11:37:09,486 [17] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 11:37:17,374 [17] INFO  Incoming call from : 8001
+2024-05-21 11:37:17,378 [17] INFO  Call state changed : Ringing
+2024-05-21 11:37:20,914 [1] INFO  Call state changed : Answered
+2024-05-21 11:37:21,224 [1] INFO  Call Started.
+2024-05-21 11:37:21,226 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 11:37:21,227 [1] INFO  Call state changed : InCall
+2024-05-21 11:37:21,228 [1] INFO  Call Accepted
+2024-05-21 11:37:21,240 [24] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 11:37:21,243 [24] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 11:37:21,245 [24] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 11:37:21,246 [24] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 11:37:21,258 [24] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 11:37:21,260 [17] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 11:37:21,264 [24] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 11:37:21,266 [17] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 11:37:35,158 [1] INFO  Call state changed : Completed
+2024-05-21 11:37:35,680 [1] INFO  Call Ended.
+2024-05-21 11:37:35,725 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 11:37:35,732 [1] INFO  Call Hanged Up
+2024-05-21 11:37:35,745 [10] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 11:37:42,123 [1] INFO  frmLogin_Load
+2024-05-21 11:37:44,253 [1] INFO  btnLogin_Click
+2024-05-21 11:37:46,234 [1] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-05-21 11:37:47,467 [1] INFO  IP : 192.168.1.6
+2024-05-21 11:37:48,499 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 11:37:48,663 [19] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 11:37:51,751 [11] INFO  Incoming call from : 8001
+2024-05-21 11:37:51,783 [11] INFO  Call state changed : Ringing
+2024-05-21 11:37:54,033 [1] INFO  Call state changed : Answered
+2024-05-21 11:37:54,126 [1] INFO  Call Started.
+2024-05-21 11:37:54,153 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 11:37:54,154 [1] INFO  Call state changed : InCall
+2024-05-21 11:37:54,161 [1] INFO  Call Accepted
+2024-05-21 11:37:54,190 [23] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 11:37:54,196 [23] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 11:37:54,201 [23] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 11:37:54,203 [23] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 11:37:54,217 [25] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 11:37:54,221 [25] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 11:37:54,226 [25] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 11:37:54,229 [25] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 11:38:24,172 [1] INFO  Call Hanged Up
+2024-05-21 11:38:24,191 [23] INFO  Call state changed : Completed
+2024-05-21 11:38:24,696 [23] INFO  Call Ended.
+2024-05-21 11:38:24,741 [23] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 11:38:24,761 [23] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 11:39:22,361 [23] INFO  Incoming call from : 8001
+2024-05-21 11:39:22,364 [23] INFO  Call state changed : Ringing
+2024-05-21 11:39:24,683 [1] INFO  Call state changed : Answered
+2024-05-21 11:39:24,695 [1] INFO  Error ConnectDevicesToCall : Error Code: 20001. The recording device has not been initialized.
+2024-05-21 11:39:24,704 [1] INFO  Call Started.
+2024-05-21 11:39:24,705 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 11:39:24,706 [1] INFO  Call state changed : InCall
+2024-05-21 11:39:24,707 [1] INFO  Call Accepted
+2024-05-21 11:39:24,741 [27] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 11:39:24,748 [27] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 11:39:24,749 [27] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 11:39:24,750 [27] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 11:39:24,772 [30] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 11:39:24,777 [30] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 11:39:24,784 [30] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 11:39:24,787 [30] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 11:39:39,189 [1] INFO  Call state changed : Completed
+2024-05-21 11:39:39,193 [1] INFO  Call Ended.
+2024-05-21 11:39:39,237 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 11:39:39,244 [27] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 11:39:39,247 [1] INFO  Call Hanged Up
+2024-05-21 11:39:43,424 [1] INFO  frmLogin_Load
+2024-05-21 11:39:44,826 [1] INFO  btnLogin_Click
+2024-05-21 11:39:46,113 [1] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-05-21 11:39:47,262 [1] INFO  IP : 192.168.1.6
+2024-05-21 11:39:48,279 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 11:39:48,447 [17] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 11:39:56,181 [10] INFO  Incoming call from : 8001
+2024-05-21 11:39:56,212 [10] INFO  Call state changed : Ringing
+2024-05-21 11:39:58,396 [1] INFO  Call state changed : Answered
+2024-05-21 11:39:58,483 [1] INFO  Call Started.
+2024-05-21 11:39:58,511 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 11:39:58,517 [1] INFO  Call state changed : InCall
+2024-05-21 11:39:58,518 [1] INFO  Call Accepted
+2024-05-21 11:39:58,541 [17] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 11:39:58,548 [17] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 11:39:58,551 [17] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 11:39:58,553 [17] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 11:39:58,565 [17] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 11:39:58,568 [11] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 11:39:58,572 [17] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 11:39:58,574 [11] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 11:40:27,645 [10] INFO  Call state changed : Completed
+2024-05-21 11:40:28,123 [10] INFO  Call Ended.
+2024-05-21 11:40:28,170 [10] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 11:40:28,183 [17] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 11:40:40,369 [17] INFO  Incoming call from : 8001
+2024-05-21 11:40:40,373 [17] INFO  Call state changed : Ringing
+2024-05-21 11:40:44,808 [1] INFO  Call state changed : Answered
+2024-05-21 11:40:44,829 [1] INFO  Error ConnectDevicesToCall : Error Code: 20001. The recording device has not been initialized.
+2024-05-21 11:40:44,840 [1] INFO  Call Started.
+2024-05-21 11:40:44,841 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 11:40:44,842 [1] INFO  Call state changed : InCall
+2024-05-21 11:40:44,842 [1] INFO  Call Accepted
+2024-05-21 11:40:44,857 [14] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 11:40:44,860 [14] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 11:40:44,862 [14] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 11:40:44,863 [14] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 11:40:44,883 [12] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 11:40:44,887 [12] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 11:40:44,898 [12] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 11:40:44,910 [12] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 11:41:14,919 [31] INFO  Call state changed : Completed
+2024-05-21 11:41:14,925 [31] INFO  Call Ended.
+2024-05-21 11:41:14,969 [31] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 11:41:14,980 [34] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 11:41:55,970 [1] INFO  frmLogin_Load
+2024-05-21 11:41:57,492 [1] INFO  btnLogin_Click
+2024-05-21 11:41:58,747 [1] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-05-21 11:41:59,885 [1] INFO  IP : 192.168.1.6
+2024-05-21 11:42:00,905 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 11:42:01,071 [11] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 11:42:04,671 [19] INFO  Incoming call from : 8001
+2024-05-21 11:42:04,699 [19] INFO  Call state changed : Ringing
+2024-05-21 11:42:07,610 [1] INFO  Call state changed : Answered
+2024-05-21 11:42:07,689 [1] INFO  Call Started.
+2024-05-21 11:42:07,716 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 11:42:07,717 [1] INFO  Call state changed : InCall
+2024-05-21 11:42:07,718 [1] INFO  Call Accepted
+2024-05-21 11:42:26,303 [1] INFO  Call state changed : Completed
+2024-05-21 11:42:26,817 [1] INFO  Call Ended.
+2024-05-21 11:42:26,863 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 11:42:26,867 [1] INFO  Call Hanged Up
+2024-05-21 11:42:26,869 [28] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 11:42:29,769 [28] INFO  Incoming call from : 8001
+2024-05-21 11:42:29,772 [28] INFO  Call state changed : Ringing
+2024-05-21 11:42:32,624 [1] INFO  Call state changed : Answered
+2024-05-21 11:42:32,803 [1] INFO  Call Started.
+2024-05-21 11:42:32,804 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 11:42:32,805 [1] INFO  Call state changed : InCall
+2024-05-21 11:42:32,805 [1] INFO  Call Accepted
+2024-05-21 11:42:32,904 [26] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 11:42:32,908 [26] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 11:42:32,910 [26] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 11:42:32,911 [26] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 11:42:32,952 [28] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 11:42:32,953 [26] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 11:42:32,955 [28] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 11:42:32,958 [26] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 11:43:03,312 [23] INFO  Call state changed : Completed
+2024-05-21 11:43:03,819 [23] INFO  Call Ended.
+2024-05-21 11:43:03,880 [23] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 11:43:03,891 [23] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 11:46:29,517 [7] INFO  SIP Account registration info : Error
+2024-05-21 11:46:29,808 [7] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 11:46:30,072 [7] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 11:48:24,421 [1] INFO  frmLogin_Load
+2024-05-21 11:48:27,077 [1] INFO  btnLogin_Click
+2024-05-21 11:48:29,137 [1] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-05-21 11:48:30,389 [1] INFO  IP : 192.168.1.4
+2024-05-21 11:48:31,375 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 11:48:31,535 [11] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 11:48:34,233 [19] INFO  Incoming call from : 8001
+2024-05-21 11:48:34,271 [19] INFO  Call state changed : Ringing
+2024-05-21 11:48:35,875 [1] INFO  Call state changed : Answered
+2024-05-21 11:48:35,994 [1] INFO  Call Started.
+2024-05-21 11:48:36,021 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 11:48:36,022 [1] INFO  Call state changed : InCall
+2024-05-21 11:48:36,023 [1] INFO  Call Accepted
+2024-05-21 11:48:36,102 [24] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 11:48:36,106 [24] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 11:48:36,107 [24] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 11:48:36,109 [24] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 11:48:36,146 [24] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 11:48:36,151 [11] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 11:48:36,152 [24] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 11:48:36,155 [11] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 11:49:07,838 [27] INFO  Call state changed : Completed
+2024-05-21 11:49:08,346 [27] INFO  Call Ended.
+2024-05-21 11:49:08,382 [27] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 11:49:08,413 [21] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 12:20:09,467 [1] INFO  frmLogin_Load
+2024-05-21 12:20:11,085 [1] INFO  btnLogin_Click
+2024-05-21 12:20:12,270 [1] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-05-21 12:20:13,773 [1] INFO  IP : 192.168.1.4
+2024-05-21 12:20:14,762 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 12:20:14,932 [10] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 12:20:21,085 [1] INFO  Outgoing call on : 8001
+2024-05-21 12:20:21,171 [1] INFO  Call state changed : Setup
+2024-05-21 12:20:21,310 [10] INFO  Call state changed : Error
+2024-05-21 12:20:21,312 [10] INFO  Call Ended.
+2024-05-21 12:20:21,357 [10] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 12:20:21,373 [22] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 12:20:34,242 [22] INFO  Incoming call from : 8001
+2024-05-21 12:20:34,260 [22] INFO  Call state changed : Ringing
+2024-05-21 12:20:36,056 [1] INFO  Call state changed : Answered
+2024-05-21 12:20:36,165 [1] INFO  Call Started.
+2024-05-21 12:20:36,191 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 12:20:36,192 [1] INFO  Call state changed : InCall
+2024-05-21 12:20:36,193 [1] INFO  Call Accepted
+2024-05-21 12:20:36,297 [23] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 12:20:36,302 [23] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 12:20:36,304 [23] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 12:20:36,306 [23] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 12:20:36,357 [10] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 12:20:36,358 [23] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 12:20:36,360 [10] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 12:20:36,368 [23] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 12:21:33,974 [23] INFO  Call state changed : Completed
+2024-05-21 12:21:34,485 [23] INFO  Call Ended.
+2024-05-21 12:21:34,529 [23] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 12:21:34,551 [28] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 12:21:40,490 [28] INFO  Incoming call from : 8001
+2024-05-21 12:21:40,495 [28] INFO  Call state changed : Ringing
+2024-05-21 12:21:43,661 [1] INFO  Call state changed : Answered
+2024-05-21 12:21:43,963 [1] INFO  Call Started.
+2024-05-21 12:21:43,964 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 12:21:43,964 [1] INFO  Call state changed : InCall
+2024-05-21 12:21:43,965 [1] INFO  Call Accepted
+2024-05-21 12:21:44,010 [22] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 12:21:44,013 [22] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 12:21:44,015 [22] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 12:21:44,016 [22] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 12:21:44,346 [22] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 12:21:44,348 [28] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 12:21:44,355 [22] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 12:21:44,358 [28] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 12:21:58,877 [1] INFO  Call state changed : Completed
+2024-05-21 12:21:59,374 [1] INFO  Call Ended.
+2024-05-21 12:21:59,420 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 12:21:59,427 [1] INFO  Call Hanged Up
+2024-05-21 12:21:59,817 [34] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 12:23:51,477 [26] INFO  Incoming call from : 8001
+2024-05-21 12:23:51,480 [26] INFO  Call state changed : Ringing
+2024-05-21 12:23:54,570 [1] INFO  Call state changed : Answered
+2024-05-21 12:23:54,959 [1] INFO  Call Started.
+2024-05-21 12:23:54,960 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 12:23:54,961 [1] INFO  Call state changed : InCall
+2024-05-21 12:23:54,961 [1] INFO  Call Accepted
+2024-05-21 12:23:54,981 [26] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 12:23:54,984 [26] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 12:23:54,986 [26] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 12:23:54,990 [26] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 12:23:55,010 [26] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 12:23:55,013 [26] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 12:23:55,019 [21] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 12:23:55,024 [21] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 12:23:56,156 [1] INFO  Call state changed : Completed
+2024-05-21 12:23:56,663 [1] INFO  Call Ended.
+2024-05-21 12:23:56,711 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 12:23:56,717 [1] INFO  Call Hanged Up
+2024-05-21 12:23:56,909 [26] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 12:24:34,630 [26] INFO  Incoming call from : 20003
+2024-05-21 12:24:34,632 [26] INFO  Call state changed : Ringing
+2024-05-21 12:24:36,241 [1] INFO  Call state changed : Answered
+2024-05-21 12:24:36,597 [1] INFO  Call Started.
+2024-05-21 12:24:36,597 [1] INFO  SIP Message Sent to : 20003, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 12:24:36,598 [1] INFO  Call state changed : InCall
+2024-05-21 12:24:36,599 [1] INFO  Call Accepted
+2024-05-21 12:24:51,649 [26] INFO  Call state changed : Completed
+2024-05-21 12:24:52,157 [26] INFO  Call Ended.
+2024-05-21 12:24:52,201 [26] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 12:24:52,215 [7] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 12:26:37,910 [1] INFO  frmLogin_Load
+2024-05-21 12:26:40,175 [1] INFO  btnLogin_Click
+2024-05-21 12:26:41,367 [1] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-05-21 12:26:42,586 [1] INFO  IP : 192.168.1.4
+2024-05-21 12:26:43,613 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 12:26:43,783 [11] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 12:26:44,953 [17] INFO  Incoming call from : 20001
+2024-05-21 12:26:44,984 [17] INFO  Call state changed : Ringing
+2024-05-21 12:26:46,835 [1] INFO  Call state changed : Answered
+2024-05-21 12:26:46,924 [1] INFO  Call Started.
+2024-05-21 12:26:46,950 [1] INFO  SIP Message Sent to : 20001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 12:26:46,951 [1] INFO  Call state changed : InCall
+2024-05-21 12:26:46,960 [1] INFO  Call Accepted
+2024-05-21 12:27:42,761 [1] INFO  Call state changed : Completed
+2024-05-21 12:27:43,292 [1] INFO  Call Ended.
+2024-05-21 12:27:43,336 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 12:27:43,341 [1] INFO  Call Hanged Up
+2024-05-21 12:27:43,361 [12] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 12:27:47,154 [1] INFO  Outgoing call on : 8001
+2024-05-21 12:27:47,168 [1] INFO  Call state changed : Setup
+2024-05-21 12:27:47,217 [12] INFO  Call state changed : RingingWithEarlyMedia
+2024-05-21 12:27:47,426 [12] INFO  Call state changed : Answered
+2024-05-21 12:27:47,725 [12] INFO  Call Started.
+2024-05-21 12:27:47,727 [12] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 12:27:47,728 [12] INFO  Call state changed : InCall
+2024-05-21 12:27:47,752 [17] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 12:27:47,758 [17] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 12:27:47,759 [17] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 12:27:47,761 [17] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 12:27:47,785 [17] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 12:27:47,787 [12] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 12:27:47,788 [17] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 12:27:47,794 [12] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 12:28:07,027 [3] INFO  Error AWS server not accessable for call start
+2024-05-21 12:28:36,100 [1] INFO  Call state changed : Completed
+2024-05-21 12:28:36,593 [1] INFO  Call Ended.
+2024-05-21 12:28:36,638 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 12:28:36,645 [1] INFO  Call Hanged Up
+2024-05-21 12:28:36,652 [12] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 12:29:33,414 [23] INFO  Incoming call from : 20001
+2024-05-21 12:29:33,418 [23] INFO  Call state changed : Ringing
+2024-05-21 12:29:37,218 [1] INFO  Call state changed : Answered
+2024-05-21 12:29:37,584 [1] INFO  Call Started.
+2024-05-21 12:29:37,584 [1] INFO  SIP Message Sent to : 20001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 12:29:37,585 [1] INFO  Call state changed : InCall
+2024-05-21 12:29:37,586 [1] INFO  Call Accepted
+2024-05-21 12:30:15,643 [1] INFO  Call state changed : Completed
+2024-05-21 12:30:16,147 [1] INFO  Call Ended.
+2024-05-21 12:30:16,188 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 12:30:16,193 [1] INFO  Call Hanged Up
+2024-05-21 12:30:16,201 [11] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 12:31:27,521 [1] INFO  Outgoing call on : 8001
+2024-05-21 12:31:27,523 [1] INFO  Call state changed : Setup
+2024-05-21 12:31:27,556 [21] INFO  Call state changed : RingingWithEarlyMedia
+2024-05-21 12:31:28,268 [21] INFO  Call state changed : Answered
+2024-05-21 12:31:29,019 [21] INFO  Call Started.
+2024-05-21 12:31:29,021 [21] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 12:31:29,022 [21] INFO  Call state changed : InCall
+2024-05-21 12:31:29,109 [21] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 12:31:29,113 [21] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 12:31:29,115 [21] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 12:31:29,115 [21] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 12:31:29,144 [14] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 12:31:29,145 [14] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 12:31:29,149 [28] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 12:31:29,153 [28] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 12:32:03,765 [1] INFO  Call state changed : Completed
+2024-05-21 12:32:04,267 [1] INFO  Call Ended.
+2024-05-21 12:32:04,312 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 12:32:04,326 [1] INFO  Call Hanged Up
+2024-05-21 12:32:04,363 [28] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 12:32:57,633 [1] INFO  Outgoing call on : 8001
+2024-05-21 12:32:57,635 [1] INFO  Call state changed : Setup
+2024-05-21 12:32:59,805 [1] INFO  Outgoing call not possible, already on call : 8001
+2024-05-21 12:33:01,047 [12] INFO  Call state changed : RingingWithEarlyMedia
+2024-05-21 12:33:01,200 [12] INFO  Call state changed : Answered
+2024-05-21 12:33:01,651 [12] INFO  Call Started.
+2024-05-21 12:33:01,653 [12] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 12:33:01,653 [12] INFO  Call state changed : InCall
+2024-05-21 12:33:01,671 [12] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 12:33:01,674 [12] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 12:33:01,676 [12] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 12:33:01,677 [12] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 12:33:01,705 [33] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 12:33:01,709 [12] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 12:33:01,712 [33] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 12:33:45,701 [1] INFO  Call state changed : Completed
+2024-05-21 12:33:46,206 [1] INFO  Call Ended.
+2024-05-21 12:33:46,253 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 12:33:46,262 [1] INFO  Call Hanged Up
+2024-05-21 12:33:46,276 [12] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 12:38:04,582 [1] INFO  Outgoing call on : 8001
+2024-05-21 12:38:04,585 [1] INFO  Call state changed : Setup
+2024-05-21 12:38:04,731 [14] INFO  Call state changed : RingingWithEarlyMedia
+2024-05-21 12:38:05,064 [14] INFO  Call state changed : Answered
+2024-05-21 12:38:05,455 [14] INFO  Call Started.
+2024-05-21 12:38:05,457 [14] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 12:38:05,458 [14] INFO  Call state changed : InCall
+2024-05-21 12:38:05,679 [28] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-21 12:38:05,682 [28] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-21 12:38:05,684 [28] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-21 12:38:05,685 [28] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-21 12:38:05,933 [17] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-21 12:38:05,939 [17] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-21 12:38:06,204 [17] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-21 12:38:06,211 [17] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-21 12:38:56,481 [1] INFO  Call state changed : Completed
+2024-05-21 12:38:56,972 [1] INFO  Call Ended.
+2024-05-21 12:38:57,018 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 12:38:57,026 [1] INFO  Call Hanged Up
+2024-05-21 12:39:02,717 [17] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 12:49:10,849 [1] INFO  frmLogin_Load
+2024-05-21 12:49:12,988 [1] INFO  btnLogin_Click
+2024-05-21 12:49:15,427 [1] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-05-21 12:49:17,021 [1] INFO  IP : 192.168.1.4
+2024-05-21 12:49:18,099 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 12:49:18,319 [11] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 12:49:31,329 [1] INFO  Outgoing call on : 8001
+2024-05-21 12:49:31,413 [1] INFO  Call state changed : Setup
+2024-05-21 12:49:31,587 [11] INFO  Call state changed : RingingWithEarlyMedia
+2024-05-21 12:49:38,092 [11] INFO  Call state changed : Answered
+2024-05-21 12:49:38,211 [11] INFO  Call Started.
+2024-05-21 12:49:38,244 [11] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 12:49:38,245 [11] INFO  Call state changed : InCall
+2024-05-21 12:50:22,873 [22] INFO  Call state changed : Completed
+2024-05-21 12:50:23,394 [22] INFO  Call Ended.
+2024-05-21 12:50:23,442 [22] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 12:50:23,454 [22] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 12:50:42,672 [19] INFO  Incoming call from : 20003
+2024-05-21 12:50:42,691 [19] INFO  Call state changed : Ringing
+2024-05-21 12:50:46,344 [1] INFO  Call state changed : Answered
+2024-05-21 12:50:46,765 [1] INFO  Call Started.
+2024-05-21 12:50:46,766 [1] INFO  SIP Message Sent to : 20003, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 12:50:46,767 [1] INFO  Call state changed : InCall
+2024-05-21 12:50:46,768 [1] INFO  Call Accepted
+2024-05-21 12:51:07,679 [21] INFO  Call state changed : Completed
+2024-05-21 12:51:08,188 [21] INFO  Call Ended.
+2024-05-21 12:51:08,242 [21] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 12:51:08,262 [11] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 12:51:55,214 [1] INFO  frmLogin_Load
+2024-05-21 12:51:56,635 [1] INFO  btnLogin_Click
+2024-05-21 12:51:58,356 [1] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-05-21 12:51:59,554 [1] INFO  IP : 192.168.1.4
+2024-05-21 12:52:00,659 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 12:52:00,901 [19] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-21 12:52:11,804 [11] INFO  Incoming call from : 20003
+2024-05-21 12:52:11,841 [11] INFO  Call state changed : Ringing
+2024-05-21 12:52:13,573 [1] INFO  Call state changed : Answered
+2024-05-21 12:52:13,671 [1] INFO  Call Started.
+2024-05-21 12:52:13,697 [1] INFO  SIP Message Sent to : 20003, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-21 12:52:13,705 [1] INFO  Call state changed : InCall
+2024-05-21 12:52:13,706 [1] INFO  Call Accepted
+2024-05-21 12:53:29,210 [23] INFO  Call state changed : Completed
+2024-05-21 12:53:29,685 [23] INFO  Call Ended.
+2024-05-21 12:53:29,733 [23] INFO  SIP Account registration info : RegistrationRequested
+2024-05-21 12:53:29,758 [19] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-22 17:14:09,228 [1] INFO  frmLogin_Load
+2024-05-22 17:14:11,928 [1] INFO  btnLogin_Click
+2024-05-22 17:14:16,292 [1] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-05-22 17:14:17,785 [1] INFO  IP : 192.168.1.4
+2024-05-22 17:14:18,920 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-22 17:14:19,368 [11] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-22 17:14:23,712 [1] INFO  Outgoing call on : 8001
+2024-05-22 17:14:23,795 [1] INFO  Call state changed : Setup
+2024-05-22 17:14:24,073 [11] INFO  Call state changed : RingingWithEarlyMedia
+2024-05-22 17:14:24,309 [11] INFO  Call state changed : Answered
+2024-05-22 17:14:24,434 [11] INFO  Call Started.
+2024-05-22 17:14:24,470 [11] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-22 17:14:24,470 [11] INFO  Call state changed : InCall
+2024-05-22 17:14:24,530 [11] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-22 17:14:24,535 [11] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-22 17:14:24,536 [11] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-22 17:14:24,538 [11] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-22 17:14:24,566 [17] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-22 17:14:24,568 [11] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-22 17:14:24,574 [17] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-22 17:14:24,576 [11] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-22 17:16:52,402 [1] INFO  Call state changed : Completed
+2024-05-22 17:16:52,932 [1] INFO  Call Ended.
+2024-05-22 17:16:52,980 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-22 17:16:52,988 [1] INFO  Call Hanged Up
+2024-05-22 17:16:53,012 [5] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-22 17:17:04,050 [1] INFO  Outgoing call on : 8001
+2024-05-22 17:17:04,055 [1] INFO  Call state changed : Setup
+2024-05-22 17:17:04,067 [5] INFO  Call state changed : RingingWithEarlyMedia
+2024-05-22 17:17:04,219 [5] INFO  Call state changed : Answered
+2024-05-22 17:17:04,563 [5] INFO  Call Started.
+2024-05-22 17:17:04,566 [5] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-22 17:17:04,567 [5] INFO  Call state changed : InCall
+2024-05-22 17:17:04,585 [11] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-22 17:17:04,588 [11] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-22 17:17:04,590 [11] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-22 17:17:04,591 [11] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-22 17:17:04,605 [5] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-22 17:17:04,606 [11] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-22 17:17:04,609 [5] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-22 17:17:04,610 [11] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-22 17:18:08,547 [1] INFO  Call state changed : Completed
+2024-05-22 17:18:09,063 [1] INFO  Call Ended.
+2024-05-22 17:18:09,111 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-22 17:18:09,119 [1] INFO  Call Hanged Up
+2024-05-22 17:18:09,127 [12] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-22 17:18:41,878 [12] INFO  Incoming call from : 8001
+2024-05-22 17:18:41,894 [12] INFO  Call state changed : Ringing
+2024-05-22 17:19:00,824 [1] INFO  Call state changed : Answered
+2024-05-22 17:19:01,243 [1] INFO  Call Started.
+2024-05-22 17:19:01,244 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-22 17:19:01,245 [1] INFO  Call state changed : InCall
+2024-05-22 17:19:01,246 [1] INFO  Call Accepted
+2024-05-22 17:19:01,259 [36] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-22 17:19:01,265 [36] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-22 17:19:01,267 [36] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-22 17:19:01,268 [36] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-22 17:19:01,297 [12] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-22 17:19:01,298 [15] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-22 17:19:01,300 [12] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-22 17:19:01,302 [15] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-22 17:19:17,066 [1] INFO  Call state changed : Completed
+2024-05-22 17:19:17,563 [1] INFO  Call Ended.
+2024-05-22 17:19:17,603 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-22 17:19:17,611 [1] INFO  Call Hanged Up
+2024-05-22 17:19:17,628 [12] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-22 17:20:54,023 [1] INFO  Outgoing call on : 8001
+2024-05-22 17:20:54,031 [1] INFO  Call state changed : Setup
+2024-05-22 17:20:54,056 [23] INFO  Call state changed : RingingWithEarlyMedia
+2024-05-22 17:20:54,197 [23] INFO  Call state changed : Answered
+2024-05-22 17:20:54,594 [23] INFO  Call Started.
+2024-05-22 17:20:54,597 [23] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-22 17:20:54,599 [23] INFO  Call state changed : InCall
+2024-05-22 17:20:54,619 [23] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-22 17:20:54,622 [23] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-22 17:20:54,624 [23] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-22 17:20:54,625 [23] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-22 17:20:54,641 [23] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-22 17:20:54,647 [36] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-22 17:20:54,649 [23] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-22 17:20:54,651 [36] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-22 17:21:01,529 [1] INFO  Call state changed : Completed
+2024-05-22 17:21:02,034 [1] INFO  Call Ended.
+2024-05-22 17:21:02,082 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-22 17:21:02,090 [1] INFO  Call Hanged Up
+2024-05-22 17:21:02,090 [36] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-22 17:21:04,755 [1] INFO  frmLogin_Load
+2024-05-22 17:21:08,556 [1] INFO  btnLogin_Click
+2024-05-22 17:21:39,470 [1] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-05-22 17:21:40,917 [1] INFO  IP : 192.168.1.4
+2024-05-22 17:21:41,877 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-22 17:21:42,027 [19] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-22 17:21:45,355 [1] INFO  Outgoing call on : 8001
+2024-05-22 17:21:45,435 [1] INFO  Call state changed : Setup
+2024-05-22 17:21:45,594 [19] INFO  Call state changed : RingingWithEarlyMedia
+2024-05-22 17:21:45,657 [19] INFO  Call state changed : Answered
+2024-05-22 17:21:45,733 [19] INFO  Call Started.
+2024-05-22 17:21:45,764 [19] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-22 17:21:45,765 [19] INFO  Call state changed : InCall
+2024-05-22 17:21:45,893 [11] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-22 17:21:45,898 [11] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-22 17:21:45,899 [11] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-22 17:21:45,901 [11] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-22 17:21:45,924 [19] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-22 17:21:45,929 [19] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-22 17:21:45,930 [11] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-22 17:21:45,934 [11] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-22 17:22:20,326 [1] INFO  Call state changed : Completed
+2024-05-22 17:22:20,831 [1] INFO  Call Ended.
+2024-05-22 17:22:20,887 [1] INFO  SIP Account registration info : RegistrationRequested
+2024-05-22 17:22:20,895 [1] INFO  Call Hanged Up
+2024-05-22 17:22:20,941 [15] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-22 17:22:53,715 [11] INFO  Incoming call from : 8001
+2024-05-22 17:22:53,723 [11] INFO  Call state changed : Ringing
+2024-05-22 17:22:58,961 [1] INFO  Call state changed : Answered
+2024-05-22 17:22:59,417 [1] INFO  Call Started.
+2024-05-22 17:22:59,418 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-22 17:22:59,419 [1] INFO  Call state changed : InCall
+2024-05-22 17:22:59,423 [1] INFO  Call Accepted
+2024-05-22 17:22:59,441 [11] INFO  Msg Received: Content:locationdetail	Sender:receiversipno
+2024-05-22 17:22:59,446 [11] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"TripDetail","PlateImageURL":""}
+2024-05-22 17:22:59,449 [11] INFO  SIP Message Sent to : 8001, msg: {"Data":"","MsgType":"BNRDetail","PlateImageURL":""}
+2024-05-22 17:22:59,450 [11] INFO  Msg Received:  Content:{"MsgType":"LocationDetail","LocalServerIP":"192.168.1.100","LocationID":1,"LocationName":"Valtrans Residence","DeviceID":"10010","DeviceName":"POF A","OpenBarrier":0,"DefaultRateMaster":1,"IsHTTPs":1,"AccessPointName":"POF A","AccessPointID":0}	Sender:8001@192.168.1.105
+2024-05-22 17:22:59,462 [11] INFO  Msg Received: Content:tripdetail	Sender:receiversipno
+2024-05-22 17:22:59,466 [11] INFO  Msg Received:  Content:{"MsgType":"TripDetail","IsTripExist":false,"TransactionID":null,"PlateNo":null,"PlateCode":null,"PlateCity":null,"EntryTime":null,"ExitTime":null,"Duration":0,"WalletBalance":0.0,"Amount":0.0,"VAT":0.0,"BillAmount":0.0,"Source":null,"PlateImageURL":null}	Sender:8001@192.168.1.105
+2024-05-22 17:22:59,469 [11] INFO  Msg Received: Content:bnrdetail	Sender:receiversipno
+2024-05-22 17:22:59,473 [11] INFO  Msg Received:  Content:{"MsgType":"BNRDetail","IsBNRAvailable":false,"AED10Count":0,"AED20Count":0,"LastPaidCarPlate":"","PaymentTime":"","TripAmount":0.0,"Deposited":0,"Returned":0,"IsCompleted":false,"Denom1":0,"Denom2":0}	Sender:8001@192.168.1.105
+2024-05-22 17:23:53,734 [11] INFO  Call state changed : Completed
+2024-05-22 17:23:54,247 [11] INFO  Call Ended.
+2024-05-22 17:23:54,287 [11] INFO  SIP Account registration info : RegistrationRequested
+2024-05-22 17:23:54,303 [11] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-22 17:32:04,075 [35] INFO  SIP Account registration info : Error
+2024-05-22 17:32:04,443 [35] INFO  SIP Account registration info : RegistrationRequested
+2024-05-22 17:32:36,452 [27] INFO  SIP Account registration info : Error
+2024-05-22 17:32:36,492 [27] INFO  SIP Account registration info : RegistrationRequested
+2024-05-22 17:33:08,494 [27] INFO  SIP Account registration info : Error
+2024-05-22 17:33:08,542 [27] INFO  SIP Account registration info : RegistrationRequested
+2024-05-22 17:33:40,551 [25] INFO  SIP Account registration info : Error
+2024-05-22 17:33:40,599 [25] INFO  SIP Account registration info : RegistrationRequested
+2024-05-22 17:34:12,601 [17] INFO  SIP Account registration info : Error
+2024-05-22 17:34:12,649 [17] INFO  SIP Account registration info : RegistrationRequested
+2024-05-22 17:34:44,651 [9] INFO  SIP Account registration info : Error
+2024-05-22 17:34:44,699 [9] INFO  SIP Account registration info : RegistrationRequested
+2024-05-22 17:35:16,700 [18] INFO  SIP Account registration info : Error
+2024-05-22 17:35:16,748 [18] INFO  SIP Account registration info : RegistrationRequested
+2024-05-22 17:35:48,774 [28] INFO  SIP Account registration info : Error
+2024-05-22 17:35:48,822 [28] INFO  SIP Account registration info : RegistrationRequested
+2024-05-22 17:36:20,825 [4] INFO  SIP Account registration info : Error
+2024-05-22 17:36:20,872 [4] INFO  SIP Account registration info : RegistrationRequested
+2024-05-22 17:36:52,880 [17] INFO  SIP Account registration info : Error
+2024-05-22 17:36:52,919 [17] INFO  SIP Account registration info : RegistrationRequested
+2024-05-22 17:37:03,253 [37] INFO  SIP Account registration info : Error
+2024-05-22 17:37:03,309 [37] INFO  SIP Account registration info : RegistrationRequested
+2024-05-22 17:37:03,795 [36] INFO  SIP Account registration info : RegistrationSucceeded
+2024-05-22 17:37:54,305 [36] INFO  Incoming call from : 8001
+2024-05-22 17:37:54,305 [36] INFO  Call state changed : Ringing
+2024-05-22 17:38:01,808 [1] INFO  Call state changed : Answered
+2024-05-22 17:38:02,209 [1] INFO  Call Started.
+2024-05-22 17:38:02,210 [1] INFO  SIP Message Sent to : 8001, msg: {"Data":"1001","MsgType":"ReceiverSIPNo","PlateImageURL":""}
+2024-05-22 17:38:02,211 [1] INFO  Call state changed : InCall
+2024-05-22 17:38:02,212 [1] INFO  Call Accepted
+2024-05-22 17:38:35,085 [32] INFO  Call state changed : Completed
+2024-05-22 17:38:35,591 [32] INFO  Call Ended.
+2024-05-22 17:38:35,631 [32] INFO  SIP Account registration info : RegistrationRequested
+2024-05-22 17:38:35,665 [40] INFO  SIP Account registration info : RegistrationSucceeded
+2024-06-07 17:18:59,269 [8] INFO  frmLogin_Load
+2024-06-07 17:19:03,053 [8] INFO  btnLogin_Click
+2024-06-07 17:19:03,999 [8] INFO  Api Resp OK OK True {"message":"Incorrect Password","status":false}
+2024-06-07 17:19:09,028 [8] INFO  btnLogin_Click
+2024-06-07 17:19:09,408 [8] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-06-07 17:19:11,169 [8] INFO  IP : 192.168.1.46
+2024-06-07 17:19:12,362 [8] INFO  SIP Account registration info : RegistrationRequested
+2024-06-07 17:19:13,469 [8] INFO  Server is not accessible
+2024-06-07 17:19:46,401 [8] INFO  frmLogin_Load
+2024-06-07 17:19:47,268 [8] INFO  btnLogin_Click
+2024-06-07 17:19:48,209 [8] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-06-07 17:19:49,684 [8] INFO  IP : 192.168.1.46
+2024-06-07 17:19:50,742 [8] INFO  SIP Account registration info : RegistrationRequested
+2024-06-07 17:19:51,803 [8] INFO  Server is not accessible
+2024-06-07 17:20:22,833 [26] INFO  SIP Account registration info : Error
+2024-06-07 17:20:22,889 [26] INFO  SIP Account registration info : RegistrationRequested
+2024-06-07 17:25:56,088 [8] INFO  frmLogin_Load
+2024-06-07 17:25:57,006 [8] INFO  btnLogin_Click
+2024-06-07 17:25:57,980 [8] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-06-07 17:25:59,578 [8] INFO  IP : 192.168.1.46
+2024-06-07 17:26:00,666 [8] INFO  SIP Account registration info : RegistrationRequested
+2024-06-07 17:26:01,742 [8] INFO  Server is not accessible
+2024-06-07 17:26:22,640 [10] INFO  frmLogin_Load
+2024-06-07 17:26:23,541 [10] INFO  btnLogin_Click
+2024-06-07 17:26:24,510 [10] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-06-07 17:26:25,978 [10] INFO  IP : 192.168.1.46
+2024-06-07 17:26:27,059 [10] INFO  SIP Account registration info : RegistrationRequested
+2024-06-07 17:27:09,865 [9] INFO  frmLogin_Load
+2024-06-07 17:27:12,228 [9] INFO  btnLogin_Click
+2024-06-07 17:27:13,131 [9] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-06-07 17:27:14,646 [9] INFO  IP : 192.168.1.46
+2024-06-07 17:27:15,684 [9] INFO  SIP Account registration info : RegistrationRequested
+2024-06-07 17:27:47,772 [26] INFO  SIP Account registration info : Error
+2024-06-07 17:27:47,828 [26] INFO  SIP Account registration info : RegistrationRequested
+2024-06-07 17:28:19,841 [29] INFO  SIP Account registration info : Error
+2024-06-07 17:28:19,903 [29] INFO  SIP Account registration info : RegistrationRequested
+2024-06-07 17:28:55,732 [11] INFO  SIP Account registration info : Error
+2024-06-07 17:29:38,443 [10] INFO  frmLogin_Load
+2024-06-07 17:29:39,192 [10] INFO  btnLogin_Click
+2024-06-07 17:29:40,155 [10] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-06-07 17:29:41,679 [10] INFO  IP : 192.168.1.46
+2024-06-07 17:29:42,741 [10] INFO  SIP Account registration info : RegistrationRequested
+2024-06-07 17:33:19,748 [9] INFO  frmLogin_Load
+2024-06-07 17:33:20,705 [9] INFO  btnLogin_Click
+2024-06-07 17:33:21,677 [9] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-06-07 17:33:23,224 [9] INFO  IP : 192.168.1.46
+2024-06-07 17:33:24,290 [9] INFO  SIP Account registration info : RegistrationRequested
+2024-06-07 17:34:03,150 [9] INFO  frmLogin_Load
+2024-06-07 17:34:04,076 [9] INFO  btnLogin_Click
+2024-06-07 17:34:05,022 [9] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-06-07 17:34:06,553 [9] INFO  IP : 192.168.1.46
+2024-06-07 17:34:07,618 [9] INFO  SIP Account registration info : RegistrationRequested
+2024-06-07 17:34:39,712 [28] INFO  SIP Account registration info : Error
+2024-06-07 17:34:39,767 [28] INFO  SIP Account registration info : RegistrationRequested
+2024-08-08 15:09:33,090 [9] INFO  frmLogin_Load
+2024-08-08 15:09:34,552 [9] INFO  btnLogin_Click
+2024-08-08 15:09:35,573 [9] INFO  Api Resp OK OK True {"data":{"token":"Xul2KEsL3mXacSKyRTa1CqjsynuW8C4YmU0Kq0jb9KV0aThVZf98PQPfkyTp","name":"Zohaib","call_types":[{"id":1,"name":"General"},{"id":2,"name":"Complaint"},{"id":3,"name":"Payment Conflict"}]},"status":true}
+2024-08-08 15:09:37,590 [9] INFO  IP : 192.168.1.46
+2024-08-08 15:09:39,065 [9] INFO  SIP Account registration info : RegistrationRequested
+2024-08-08 15:10:27,274 [10] INFO  SIP Account registration info : Error
+2024-08-08 15:10:27,341 [10] INFO  SIP Account registration info : RegistrationRequested
+2024-08-08 15:10:59,356 [35] INFO  SIP Account registration info : Error
+2024-08-08 15:10:59,422 [35] INFO  SIP Account registration info : RegistrationRequested

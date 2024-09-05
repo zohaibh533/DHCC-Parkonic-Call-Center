@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkonicCallCenter", "ParkonicCallCenter\ParkonicCallCenter.csproj", "{27CA44E6-FA6F-42DA-AC63-C43871FEDC42}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ParkonicCallCenter.Setup", "ParkonicCallCenter.Setup\ParkonicCallCenter.Setup.vdproj", "{9FF77D34-CA0E-44EE-8DFD-5FE830F4E9DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27CA44E6-FA6F-42DA-AC63-C43871FEDC42}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{27CA44E6-FA6F-42DA-AC63-C43871FEDC42}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{27CA44E6-FA6F-42DA-AC63-C43871FEDC42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CA44E6-FA6F-42DA-AC63-C43871FEDC42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CA44E6-FA6F-42DA-AC63-C43871FEDC42}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CA44E6-FA6F-42DA-AC63-C43871FEDC42}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{27CA44E6-FA6F-42DA-AC63-C43871FEDC42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CA44E6-FA6F-42DA-AC63-C43871FEDC42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27CA44E6-FA6F-42DA-AC63-C43871FEDC42}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{27CA44E6-FA6F-42DA-AC63-C43871FEDC42}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{9FF77D34-CA0E-44EE-8DFD-5FE830F4E9DC}.CD_ROM|Any CPU.ActiveCfg = Release
+		{9FF77D34-CA0E-44EE-8DFD-5FE830F4E9DC}.Debug|Any CPU.ActiveCfg = Debug
+		{9FF77D34-CA0E-44EE-8DFD-5FE830F4E9DC}.DVD-5|Any CPU.ActiveCfg = Debug
+		{9FF77D34-CA0E-44EE-8DFD-5FE830F4E9DC}.Release|Any CPU.ActiveCfg = Release
+		{9FF77D34-CA0E-44EE-8DFD-5FE830F4E9DC}.SingleImage|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
