@@ -505,7 +505,6 @@ D:\Git-Projects\DIFC\DIFC-Parkonic-Call-Center\ParkonicCallCenter\obj\Debug\Park
 D:\Git-Projects\DHCC\DHCC-Parkonic-Call-Center\ParkonicCallCenter\bin\Debug\ParkonicCallCenter.exe.config
 D:\Git-Projects\DHCC\DHCC-Parkonic-Call-Center\ParkonicCallCenter\obj\Debug\ParkonicCallCenter.exe
 D:\Git-Projects\DHCC\DHCC-Parkonic-Call-Center\ParkonicCallCenter\obj\Debug\ParkonicCallCenter.pdb
-D:\Git-Projects\DHCC\DHCC-Parkonic-Call-Center\ParkonicCallCenter\obj\Debug\ParkonicCallCenter.csprojResolveAssemblyReference.cache
 D:\Git-Projects\DHCC\DHCC-Parkonic-Call-Center\ParkonicCallCenter\obj\Debug\ParkonicCallCenter.Properties.Resources.resources
 D:\Git-Projects\DHCC\DHCC-Parkonic-Call-Center\ParkonicCallCenter\obj\Debug\ParkonicCallCenter.UI.frmDashboard.resources
 D:\Git-Projects\DHCC\DHCC-Parkonic-Call-Center\ParkonicCallCenter\obj\Debug\ParkonicCallCenter.UI.frmLogin.resources

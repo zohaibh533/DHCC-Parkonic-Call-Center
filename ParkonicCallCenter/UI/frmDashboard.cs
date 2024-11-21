@@ -797,7 +797,7 @@ namespace ParkonicCallCenter.UI
         {
             try
             {
-                call = softPhone.CreateCallObject(phoneLine, new DialParameters(Number) { CallType = CallType.Audio });
+                call = softPhone.CreateCallObject(phoneLine, new DialParameters(Number) { CallType = CallType.AudioVideo });
                 WireUpCallEvents();
                 call.Start();
             }
