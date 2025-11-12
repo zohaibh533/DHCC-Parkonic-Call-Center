@@ -602,3 +602,5 @@ D:\Git-Projects\DHCC\DHCC-Parkonic-Call-Center\ParkonicCallCenter\bin\Debug\de\D
 D:\Git-Projects\DHCC\DHCC-Parkonic-Call-Center\ParkonicCallCenter\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
 D:\Git-Projects\DHCC\DHCC-Parkonic-Call-Center\ParkonicCallCenter\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
 D:\Git-Projects\DHCC\DHCC-Parkonic-Call-Center\ParkonicCallCenter\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\Git-Projects\DHCC\DHCC-Parkonic-Call-Center\ParkonicCallCenter\obj\Debug\ParkonicCallCenter.csprojResolveAssemblyReference.cache
+D:\Git-Projects\DHCC\DHCC-Parkonic-Call-Center\ParkonicCallCenter\obj\Debug\ParkonicCallCenter.UI.frmCreateTrip.resources

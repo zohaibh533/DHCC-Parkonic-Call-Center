@@ -88,6 +88,12 @@
     <Compile Include="Logic\Utilis.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI\frmCreateTrip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmCreateTrip.Designer.cs">
+      <DependentUpon>frmCreateTrip.cs</DependentUpon>
+    </Compile>
     <Compile Include="UI\frmDashboard.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -123,6 +129,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="UI\frmCreateTrip.resx">
+      <DependentUpon>frmCreateTrip.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UI\frmDashboard.resx">
       <DependentUpon>frmDashboard.cs</DependentUpon>
     </EmbeddedResource>

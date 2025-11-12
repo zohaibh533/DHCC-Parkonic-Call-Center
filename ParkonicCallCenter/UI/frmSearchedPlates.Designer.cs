@@ -39,6 +39,7 @@
             this.gridColumn1 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn2 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.ppMainWait = new DevExpress.XtraWaitForm.ProgressPanel();
+            this.btnPNF = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.txtPlateCode.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtPlateNo.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.septLine)).BeginInit();
@@ -49,52 +50,54 @@
             // txtPlateCode
             // 
             this.txtPlateCode.EditValue = "";
-            this.txtPlateCode.Location = new System.Drawing.Point(26, 68);
+            this.txtPlateCode.Location = new System.Drawing.Point(30, 84);
+            this.txtPlateCode.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtPlateCode.Name = "txtPlateCode";
-            this.txtPlateCode.Properties.Appearance.Font = new System.Drawing.Font("Poppins SemiBold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtPlateCode.Properties.Appearance.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtPlateCode.Properties.Appearance.Options.UseFont = true;
             this.txtPlateCode.Properties.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.Simple;
             this.txtPlateCode.Properties.NullText = "Code";
             this.txtPlateCode.Properties.NullValuePrompt = "Code";
             this.txtPlateCode.Properties.NullValuePromptShowForEmptyValue = true;
             this.txtPlateCode.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.txtPlateCode.Size = new System.Drawing.Size(234, 48);
+            this.txtPlateCode.Size = new System.Drawing.Size(273, 42);
             this.txtPlateCode.TabIndex = 0;
             // 
             // txtPlateNo
             // 
             this.txtPlateNo.EditValue = "";
-            this.txtPlateNo.Location = new System.Drawing.Point(309, 68);
+            this.txtPlateNo.Location = new System.Drawing.Point(360, 84);
+            this.txtPlateNo.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtPlateNo.Name = "txtPlateNo";
-            this.txtPlateNo.Properties.Appearance.Font = new System.Drawing.Font("Poppins SemiBold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtPlateNo.Properties.Appearance.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtPlateNo.Properties.Appearance.Options.UseFont = true;
             this.txtPlateNo.Properties.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.Simple;
             this.txtPlateNo.Properties.NullText = "Plate Number";
             this.txtPlateNo.Properties.NullValuePrompt = "Plate Number";
             this.txtPlateNo.Properties.NullValuePromptShowForEmptyValue = true;
             this.txtPlateNo.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.txtPlateNo.Size = new System.Drawing.Size(234, 48);
+            this.txtPlateNo.Size = new System.Drawing.Size(273, 42);
             this.txtPlateNo.TabIndex = 1;
             // 
             // lblDeviceName
             // 
             this.lblDeviceName.AutoSize = true;
-            this.lblDeviceName.Font = new System.Drawing.Font("Poppins", 14F);
-            this.lblDeviceName.Location = new System.Drawing.Point(20, 30);
+            this.lblDeviceName.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
+            this.lblDeviceName.Location = new System.Drawing.Point(30, 37);
             this.lblDeviceName.Name = "lblDeviceName";
             this.lblDeviceName.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.lblDeviceName.Size = new System.Drawing.Size(120, 33);
+            this.lblDeviceName.Size = new System.Drawing.Size(133, 29);
             this.lblDeviceName.TabIndex = 38;
             this.lblDeviceName.Text = "Plate Code";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Poppins", 14F);
-            this.label1.Location = new System.Drawing.Point(303, 30);
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
+            this.label1.Location = new System.Drawing.Point(360, 37);
             this.label1.Name = "label1";
             this.label1.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.label1.Size = new System.Drawing.Size(145, 33);
+            this.label1.Size = new System.Drawing.Size(161, 29);
             this.label1.TabIndex = 39;
             this.label1.Text = "Plate Number";
             // 
@@ -108,11 +111,12 @@
             this.btnSearch.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(25)))), ((int)(((byte)(54)))));
             this.btnSearch.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(25)))), ((int)(((byte)(54)))));
             this.btnSearch.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnSearch.Font = new System.Drawing.Font("Poppins", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSearch.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSearch.ForeColor = System.Drawing.Color.White;
-            this.btnSearch.Location = new System.Drawing.Point(592, 69);
+            this.btnSearch.Location = new System.Drawing.Point(691, 85);
+            this.btnSearch.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnSearch.Name = "btnSearch";
-            this.btnSearch.Size = new System.Drawing.Size(234, 48);
+            this.btnSearch.Size = new System.Drawing.Size(273, 59);
             this.btnSearch.TabIndex = 2;
             this.btnSearch.Text = "SEARCH";
             this.btnSearch.UseVisualStyleBackColor = false;
@@ -123,20 +127,24 @@
             this.septLine.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
             this.septLine.LineStyle = System.Drawing.Drawing2D.DashStyle.Dash;
             this.septLine.LineThickness = 1;
-            this.septLine.Location = new System.Drawing.Point(26, 131);
+            this.septLine.Location = new System.Drawing.Point(30, 161);
+            this.septLine.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.septLine.Name = "septLine";
-            this.septLine.Size = new System.Drawing.Size(800, 2);
+            this.septLine.Padding = new System.Windows.Forms.Padding(10, 11, 10, 11);
+            this.septLine.Size = new System.Drawing.Size(933, 2);
             this.septLine.TabIndex = 47;
             // 
             // gcPlates
             // 
             this.gcPlates.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.gcPlates.Location = new System.Drawing.Point(0, 152);
+            this.gcPlates.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.gcPlates.Location = new System.Drawing.Point(0, 188);
             this.gcPlates.LookAndFeel.Style = DevExpress.LookAndFeel.LookAndFeelStyle.UltraFlat;
             this.gcPlates.LookAndFeel.UseDefaultLookAndFeel = false;
             this.gcPlates.MainView = this.gvPlates;
+            this.gcPlates.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.gcPlates.Name = "gcPlates";
-            this.gcPlates.Size = new System.Drawing.Size(851, 483);
+            this.gcPlates.Size = new System.Drawing.Size(993, 594);
             this.gcPlates.TabIndex = 48;
             this.gcPlates.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gvPlates});
@@ -284,19 +292,42 @@
             this.ppMainWait.AppearanceDescription.ForeColor = System.Drawing.Color.Black;
             this.ppMainWait.AppearanceDescription.Options.UseForeColor = true;
             this.ppMainWait.Cursor = System.Windows.Forms.Cursors.AppStarting;
-            this.ppMainWait.Location = new System.Drawing.Point(506, -3);
+            this.ppMainWait.Location = new System.Drawing.Point(590, -4);
+            this.ppMainWait.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.ppMainWait.Name = "ppMainWait";
-            this.ppMainWait.Size = new System.Drawing.Size(246, 66);
+            this.ppMainWait.Size = new System.Drawing.Size(287, 81);
             this.ppMainWait.TabIndex = 82;
             this.ppMainWait.WaitAnimationType = DevExpress.Utils.Animation.WaitingAnimatorType.Ring;
+            // 
+            // btnPNF
+            // 
+            this.btnPNF.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(25)))), ((int)(((byte)(54)))));
+            this.btnPNF.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
+            this.btnPNF.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnPNF.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.btnPNF.FlatAppearance.BorderSize = 0;
+            this.btnPNF.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(25)))), ((int)(((byte)(54)))));
+            this.btnPNF.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(25)))), ((int)(((byte)(54)))));
+            this.btnPNF.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnPNF.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPNF.ForeColor = System.Drawing.Color.White;
+            this.btnPNF.Location = new System.Drawing.Point(195, 7);
+            this.btnPNF.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.btnPNF.Name = "btnPNF";
+            this.btnPNF.Size = new System.Drawing.Size(273, 59);
+            this.btnPNF.TabIndex = 83;
+            this.btnPNF.Text = "PNF : Create Trip";
+            this.btnPNF.UseVisualStyleBackColor = false;
+            this.btnPNF.Click += new System.EventHandler(this.btnPNF_Click);
             // 
             // frmSearchedPlates
             // 
             this.Appearance.BackColor = System.Drawing.Color.White;
             this.Appearance.Options.UseBackColor = true;
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(851, 635);
+            this.ClientSize = new System.Drawing.Size(993, 782);
+            this.Controls.Add(this.btnPNF);
             this.Controls.Add(this.ppMainWait);
             this.Controls.Add(this.gcPlates);
             this.Controls.Add(this.septLine);
@@ -306,6 +337,7 @@
             this.Controls.Add(this.txtPlateCode);
             this.Controls.Add(this.txtPlateNo);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "frmSearchedPlates";
@@ -336,6 +368,7 @@
         private DevExpress.XtraGrid.Columns.GridColumn gridColumn1;
         private DevExpress.XtraGrid.Columns.GridColumn gridColumn2;
         public DevExpress.XtraWaitForm.ProgressPanel ppMainWait;
+        private System.Windows.Forms.Button btnPNF;
         //   private DevExpress.XtraEditors.Repository.RepositoryItemButtonEdit repositoryItemButtonEdit1;
     }
 }

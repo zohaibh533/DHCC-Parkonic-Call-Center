@@ -1,5 +1,6 @@
 ﻿using RestSharp;
 using System;
+using System.Globalization;
 using System.Threading.Tasks;
 
 namespace ParkonicCallCenter.Logic
@@ -58,6 +59,31 @@ namespace ParkonicCallCenter.Logic
                         keyword_ar = ArPlate,
                         start = "",
                         end = ""
+                    });
+                    return SysRestClient.GetLocalRestClient(IsHTTPs, serverIP).Execute(req);
+                }
+                catch (Exception ee)
+                {
+                    throw ee;
+                }
+            });
+        }
+
+        public static Task<IRestResponse> CreateEntryTicket(string PlateCode, string PlateNo, string PlateCity,
+           DateTime EntryTime, string serverIP, bool IsHTTPs)
+        {
+            return Task.Run(() =>
+            {
+                try
+                {
+                    RestRequest req = new RestRequest("station/v_entry_pof", Method.POST, DataFormat.Json);
+                    req.AddHeader("Accept", "application/json");
+                    req.AddJsonBody(new
+                    {
+                        category = PlateCode,
+                        plate = PlateNo,
+                        city = PlateCity,
+                        checkinat = EntryTime.ToString("yyyy-MM-dd HH:mm:ss", new CultureInfo("en")) // 2023-10-24 11:40:00
                     });
                     return SysRestClient.GetLocalRestClient(IsHTTPs, serverIP).Execute(req);
                 }

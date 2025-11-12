@@ -35,7 +35,9 @@ namespace ParkonicCallCenter.UI
                 ppMainWait.Size = new Size(161, 44);
                 ppMainWait.Location = new Point(((this.Width / 2) - (ppMainWait.Width / 2)), ((this.Height / 2) - (ppMainWait.Height / 2)));
                 ppMainWait.Visible = false;
-                gcPlates.Visible = false;
+
+                btnPNF.Location = new Point(((this.Width / 2) - (btnPNF.Width / 2)), ((this.Height / 2) - (btnPNF.Height / 2)));
+                btnPNF.Visible = gcPlates.Visible = false;
                 txtPlateCode.Focus();
             }
             catch (Exception ee)
@@ -44,22 +46,21 @@ namespace ParkonicCallCenter.UI
             }
         }
 
-        private void InvokeGUIThread(Action action)
-        {
-            Invoke(action);
-        }
-
-        private async void btnSearch_Click(object sender, EventArgs e)
+        public async void btnSearch_Click(object sender, EventArgs e)
         {
             try
             {
-                if (txtPlateCode.Text != "" || txtPlateNo.Text != "")
+                string code = "", PlateNo = "";
+                txtPlateCode.InvokeControl(l => code = l.Text);
+                txtPlateNo.InvokeControl(l => PlateNo = l.Text);
+
+                if (code != "" || PlateNo != "")
                 {
-                    ppMainWait.Visible = true;
-                    btnSearch.Enabled = false;
+                    ppMainWait.InvokeControl(l => l.Visible = true);
+                    btnSearch.InvokeControl(l => l.Enabled = false);
 
                     string keyword_en = "", keyword_ar = "";
-                    InvokeGUIThread(() => { keyword_en = string.Format("{0}{1}", txtPlateCode.Text, txtPlateNo.Text); });
+                    keyword_en = string.Format("{0}{1}", code, PlateNo);
                     keyword_ar = Utilis.GetArabicPlateFromEng(keyword_en);
 
                     //call api
@@ -67,15 +68,20 @@ namespace ParkonicCallCenter.UI
                     if (resp.IsSuccessful && resp.StatusCode == System.Net.HttpStatusCode.OK)
                     {
                         SearchDetails details = JsonConvert.DeserializeObject<SearchDetails>(resp.Content);
+                        ppMainWait.InvokeControl(l => l.Visible = false);
+                        btnSearch.InvokeControl(l => l.Enabled = true);
 
                         if (details != null && details.data != null && details.data.Count > 0)
                         {
-                            ppMainWait.Visible = false;
-                            btnSearch.Enabled = true;
+                            gcPlates.InvokeControl(l => l.Visible = true);
+                            btnPNF.InvokeControl(l => l.Visible = false);
                             DisplayPlatesData(details);
                         }
                         else
-                            MessageBox.Show("Your car plate number was not found", "No Plate Data", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        {
+                            gcPlates.InvokeControl(l => l.Visible = false);
+                            btnPNF.InvokeControl(l => l.Visible = true);
+                        }
                     }
                     else
                     {
@@ -90,8 +96,8 @@ namespace ParkonicCallCenter.UI
             {
                 LogFile.UpdateLogFile(string.Format("Error Plate Search : {0}", ee.Message));
             }
-            ppMainWait.Visible = false;
-            btnSearch.Enabled = true;
+            ppMainWait.InvokeControl(l => l.Visible = false);
+            btnSearch.InvokeControl(l => l.Enabled = true);
         }
 
         private void DisplayPlatesData(SearchDetails details)
@@ -102,7 +108,7 @@ namespace ParkonicCallCenter.UI
                 //build image url
                 foreach (PlateDetails de in details.data)
                 {
-                    string folderPath = de.url.Replace("\\", "/").ToLower();
+                    string folderPath = string.IsNullOrEmpty(de.url) ? "" : de.url.Replace("\\", "/").ToLower();
                     if (folderPath.IndexOf("parkonic") >= 0)
                     {
                         folderPath = folderPath.Substring(folderPath.IndexOf("parkonic"));
@@ -119,7 +125,7 @@ namespace ParkonicCallCenter.UI
 
                 gvPlates.OptionsView.RowAutoHeight = false;
                 gvPlates.OptionsView.AnimationType = DevExpress.XtraGrid.Views.Base.GridAnimationType.AnimateAllContent;
-                gcPlates.DataSource = lst;
+                gcPlates.InvokeControl(l => l.DataSource = lst);
 
                 gvPlates.OptionsView.ColumnAutoWidth = true;
                 gvPlates.BestFitColumns();
@@ -141,7 +147,6 @@ namespace ParkonicCallCenter.UI
         {
             try
             {
-                gcPlates.Visible = true;
                 gvPlates.Columns["transID"].Visible = false;
                 gvPlates.Columns["PlateImgURL"].Visible = false;
 
@@ -227,5 +232,33 @@ namespace ParkonicCallCenter.UI
             }
         }
 
+        private void btnPNF_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                string code = "", PlateNo = "";
+                txtPlateCode.InvokeControl(l => code = l.Text);
+                txtPlateNo.InvokeControl(l => PlateNo = l.Text);
+                LogFile.UpdateLogFile($"PNF code : {code}, No : {PlateNo}");
+
+                frmCreateTrip frm = new frmCreateTrip();
+                frm.IsHTTPs = IsHTTPs;
+                frm.ServerIP = ServerIP;
+                frm.Code = code;
+                frm.PlateNo = PlateNo;
+
+                DialogResult res = frm.ShowDialog();
+                if (res == DialogResult.OK)
+                {
+                    txtPlateCode.InvokeControl(l => l.Text = frm.Code);
+                    txtPlateNo.InvokeControl(l => l.Text = frm.PlateNo);
+                    btnSearch_Click(sender, e);
+                }
+            }
+            catch (Exception ee)
+            {
+                LogFile.UpdateLogFile(string.Format("Error btnPNF_Click : {0}", ee.Message));
+            }
+        }
     }
 }
